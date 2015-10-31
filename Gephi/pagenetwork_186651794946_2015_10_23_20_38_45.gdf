@@ -1,0 +1,2454 @@
+nodedef>name VARCHAR,label VARCHAR,category VARCHAR,like_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+186651794946,College Improv Tournament,Community,1830,52,yes,https://www.facebook.com/collegeimprovtournament
+115671735190655,The Writing Institute at Sarah Lawrence College,Education,996,18,yes,https://www.facebook.com/TheWritingInstituteatSarahLawrenceCollege
+800390420049393,Feral Christine,Comedian,430,2,yes,https://www.facebook.com/feralchristine
+1430911063868063,DASH,Arts/Entertainment/Nightlife,158,9,yes,https://www.facebook.com/DASHimprov
+174228359272883,Public Space One,Health/Beauty,2059,18,yes,https://www.facebook.com/publicspaceone
+799918056686071,UGA Department of Theatre and Film Studies,Education,252,14,no,https://www.facebook.com/UGATheatreAndFilmStudies
+5588828700,University of North Texas,University,159548,4618,yes,https://www.facebook.com/northtexas
+35447572453,Chicago Public Library,Government Organization,49245,138,yes,https://www.facebook.com/pages/Chicago-Public-Library/35447572453
+114173905293120,Loyola University Chicago Quinlan School of Business,University,12187,408,yes,https://www.facebook.com/LoyolaQuinlan
+12201279671,North Central College,University,10855,461,no,https://www.facebook.com/NorthCentralCollege
+159240067038,Marc Maron,Comedian,133900,2093,yes,https://www.facebook.com/WTFPodcast
+112041552195343,How Did This Get Made?,Comedian,47584,1011,yes,https://www.facebook.com/HDTGM
+386149218109721,Steve Harvey TV,TV Show,3785246,255489,no,https://www.facebook.com/SteveHarveytv
+26247320522,PR Newswire,Media/News/Publishing,34420,375,yes,https://www.facebook.com/pages/PR-Newswire/26247320522
+17472821218,Eugene Mirman,Comedian,57430,1967,yes,https://www.facebook.com/pages/Eugene-Mirman/17472821218
+117070478302975,NPR Music,Media/News/Publishing,641696,12617,no,https://www.facebook.com/nprmusic
+67985126744,Adult Swim,TV Network,5059818,73208,no,https://www.facebook.com/adultswim
+241835255869186,Second City Shorts,TV Show,477,0,yes,https://www.facebook.com/SecondCityShorts
+157745287588723,The Deltones,Public Figure,317,0,yes,https://www.facebook.com/pages/The-Deltones/157745287588723
+429035077156814,The Chicago Sketch Comedy Festival,Arts/Entertainment/Nightlife,1218,11,yes,https://www.facebook.com/chicagosketchfest
+121449307867611,WGN Morning News,Media/News/Publishing,195726,48441,yes,https://www.facebook.com/WGNMorningNews
+12895086428,CSN Chicago,TV Network,288363,139236,yes,https://www.facebook.com/CSNChicago
+204381782975901,The Boys,Local Business,555,1,yes,https://www.facebook.com/MasonMessing
+715242115211036,Get On Up: The Improv Jam,Community,248,16,yes,https://www.facebook.com/pages/Get-On-Up-The-Improv-Jam/715242115211036
+478297838886202,SLC Lampoon,School Sports Team,478,2,yes,https://www.facebook.com/slclampoon
+92738641235,Sarah Lawrence College,Education,11180,250,yes,https://www.facebook.com/sarahlawrencecollege
+34399107150,Suffolk University,Education,20953,362,no,https://www.facebook.com/suffolkuniversity
+360123284022585,Seriously Bent,Comedian,440,5,yes,https://www.facebook.com/SeriouslyBent
+423635764348800,The MoonSharks,Arts/Entertainment/Nightlife,586,70,yes,https://www.facebook.com/TheMoonSharks
+113211072047633,On The Spot Improv,Public Figure,720,2,yes,https://www.facebook.com/onthespotksu
+213732932141770,Some Assembly Required,Arts/Entertainment/Nightlife,381,17,no,https://www.facebook.com/sarimprov
+277168785626599,The Understudies Improv,Entertainer,348,35,yes,https://www.facebook.com/pages/The-Understudies-Improv/277168785626599
+148981728456824,Merely Players Improv Comedy,Arts/Entertainment/Nightlife,488,2,yes,https://www.facebook.com/CarthageMerelyPlayers
+1591100074443174,The Unprofessionals: CUC Improv,University,93,0,yes,https://www.facebook.com/CUCimprov
+214637758551161,Noise from the Basement,Local Business,189,1,yes,https://www.facebook.com/pages/Noise-from-the-Basement/214637758551161
+181484765229406,Salsation Theatre Company  NFP,Non-Profit Organization,843,1,yes,https://www.facebook.com/salsationco
+432052846910801,The Phoenix Improv Company,Organization,252,0,yes,https://www.facebook.com/PhoenixImprov
+114204605265769,Cal Poly Associated Students  Inc. (ASI),Local Business,2923,119,yes,https://www.facebook.com/CalPolyASI
+356567591701,Smile and Nod,Club,1057,4,yes,https://www.facebook.com/SmileandNodCP
+6192688417,Stanford University,Education,976289,8606,yes,https://www.facebook.com/stanford
+132411390121709,The University tWits,Public Figure,1041,3,yes,https://www.facebook.com/twitscomedy
+150357761719133,Awkward Silence Comedy,Entertainer,1189,5,yes,https://www.facebook.com/ASCIU
+82777273087,Academy of Art University,University,87711,1384,yes,https://www.facebook.com/AcademyofArtUniversity
+38122503474,Ubiquitous They,Local Business,679,1,yes,https://www.facebook.com/UbiquitousThey
+141974332502793,Marquette University,Education,42102,3254,no,https://www.facebook.com/MarquetteU
+111518954681,North Park University,University,8225,347,yes,https://www.facebook.com/npuchicago
+25360497695,Saint Xavier University,Education,6604,311,yes,https://www.facebook.com/stxavieruniversity
+54942390562,Wheaton College,University,12167,781,yes,https://www.facebook.com/wheatoncollege.il
+91170023874,Purdue University Calumet,Education,9176,242,yes,https://www.facebook.com/PurdueUniversityCalumet
+112283625454862,University of St. Francis,University,2248,65,no,https://www.facebook.com/pages/University-of-St-Francis/112283625454862
+178292963622,Dominican University,University,8842,304,no,https://www.facebook.com/Dominican
+33832613988,Benedictine University,Education,10031,706,yes,https://www.facebook.com/BenedictineUniversity
+273298612771722,Concordia University Chicago,University,3724,246,yes,https://www.facebook.com/ConcordiaUniversityChicago
+142729940353,Chicago State University,University,11568,384,yes,https://www.facebook.com/chicagostateuniversity
+22360227546,The University of Alabama,University,513532,3639,yes,https://www.facebook.com/universityofalabama
+20697868961,Boston University,University,193770,8863,yes,https://www.facebook.com/BostonUniversity
+34763715137,Augustana College - Illinois,Education,11912,581,yes,https://www.facebook.com/AugustanaCollege
+92169967967,Morton College,School,4769,92,yes,https://www.facebook.com/MortonCollege
+222381471195755,Malcolm X College,Education,3362,257,yes,https://www.facebook.com/MalcolmXCollege
+113889395291269,University of Maryland  College Park,University,40904,105,no,https://www.facebook.com/pages/University-of-Maryland-College-Park/113889395291269
+87873693141,Boston College,University,106071,3177,yes,https://www.facebook.com/BostonCollege
+6363207806,CollegeHumor,Entertainment Website,5586105,461432,yes,https://www.facebook.com/CollegeHumor
+107963632570817,St. John s University,University,319,0,no,https://www.facebook.com/pages/St-Johns-University/107963632570817
+15932409357,Syracuse University,University,152901,7840,yes,https://www.facebook.com/syracuseuniversity
+8570160131,Cornell University,University,272816,9256,no,https://www.facebook.com/Cornell
+103256838688,New York University,University,493645,16732,no,https://www.facebook.com/NYU
+10522597325,UCB Comedy,Comedian,14695,296,no,https://www.facebook.com/UCBcomedy
+89252861580,Cook County Social Club,Comedian,2853,176,yes,https://www.facebook.com/cookcountysocialclub
+24327179853,K.A.R.L. Improv!,Monarch,567,4,yes,https://www.facebook.com/K.A.R.L.improv
+8390454563,Kids in the Hall,Comedian,208137,5274,no,https://www.facebook.com/kidsinthehall
+188974064501460,Improv Nerd,Comedian,11208,529,yes,https://www.facebook.com/ImprovNerdPodcast
+154226994687030,Compass Improv,Non-Profit Organization,964,1,yes,https://www.facebook.com/compassimprov
+584884218241641,Improv Strikes Back,Community,297,2,yes,https://www.facebook.com/improvstrikesback
+188599282616,Kennesaw State University,University,34495,1586,no,https://www.facebook.com/KennesawStateUniversity
+75011561973,Northern Illinois University,University,63517,2360,yes,https://www.facebook.com/NorthernIllUniv
+12574254660,University of St. Francis,Education,7452,65,no,https://www.facebook.com/StFrancis
+108242225862828,Roosevelt University,University,10828,89,no,https://www.facebook.com/pages/Roosevelt-University/108242225862828
+100526673914,Purdue University,University,195751,10854,yes,https://www.facebook.com/PurdueUniversity
+86293358032,Elmhurst College,Education,7701,436,yes,https://www.facebook.com/ElmCol
+287143257964,Lewis University,Education,12052,857,yes,https://www.facebook.com/lewisu.edu
+54486905469,National Louis University,Education,8212,110,yes,https://www.facebook.com/NationalLouis
+45698916714,Northeastern Illinois University,University,18504,880,yes,https://www.facebook.com/NEIUlife
+173021062799,Robert Morris University - Illinois,University,9753,357,yes,https://www.facebook.com/RMUIllinois
+122581057764508,The University of Edinburgh,University,138432,322789,yes,https://www.facebook.com/UniversityOfEdinburgh
+19178688304,University of Illinois at Chicago,University,39626,2175,yes,https://www.facebook.com/uic.edu
+163536409904,University of Illinois at Urbana-Champaign,University,173825,16453,yes,https://www.facebook.com/illinois.edu
+29464444855,Loyola University Chicago,University,32043,7626,yes,https://www.facebook.com/LoyolaChicago
+228401243342,Northwestern University,Education,104127,3003,no,https://www.facebook.com/NorthwesternU
+134972803193847,University of Southern California,University,203721,7662,yes,https://www.facebook.com/usc
+21105780752,University of Michigan,University,710537,26257,yes,https://www.facebook.com/universityofmichigan
+9776212174,Auditorium Theatre of Roosevelt University,Landmark,13294,610,yes,https://www.facebook.com/auditoriumtheatre
+7132530465,Columbia College Chicago,School,36579,471,yes,https://www.facebook.com/columbiacollegechicago
+12527153330,University of Virginia,University,133091,19455,no,https://www.facebook.com/UniversityofVirginia
+21489041474,Duke University,University,290544,8760,yes,https://www.facebook.com/DukeUniv
+374809010319,Yale University,University,1116516,11384,no,https://www.facebook.com/YaleUniversity
+8829726273,University of Washington,University,303438,21067,yes,https://www.facebook.com/UofWA
+235601731818,University of Kentucky,Education,400531,3371,yes,https://www.facebook.com/universityofky
+55528788113,University of Wisconsin-Madison,University,253556,25503,no,https://www.facebook.com/UWMadison
+10515469841,University of Oregon,University,357344,14368,yes,https://www.facebook.com/universityoforegon
+77858905322,Visit KC,Travel/Leisure,104162,14141,yes,https://www.facebook.com/VisitKC
+44496359631,University of Florida,University,617577,23298,no,https://www.facebook.com/uflorida
+71144639929,3033,Comedian,684,0,yes,https://www.facebook.com/pages/3033/71144639929
+153869921349804,Stacked: All-female Musical Improv,Entertainer,757,0,yes,https://www.facebook.com/stackedmusic
+153360828173209,False Profits,Organization,1812,15,yes,https://www.facebook.com/FalseProfitsComedy
+474777109222419,Public Offenders: UNCSA Improv Comedy,Community,138,1,yes,https://www.facebook.com/uncsaimprov
+183118958395593,Armed Farces,Non-Profit Organization,104,0,yes,https://www.facebook.com/pages/Armed-Farces/183118958395593
+156596641018365,Without a Box,Community,561,2,yes,https://www.facebook.com/withoutaboximprov
+28728366821,Gigglepants Improv!,Comedian,2579,24,yes,https://www.facebook.com/gpantsimprov
+958759454149502,Flirt Reynolds,Entertainer,450,1,yes,https://www.facebook.com/FlirtReynolds
+1526920164248232,Different Storcks,Entertainer,196,1,yes,https://www.facebook.com/differentstorcks
+148341023547,The Improv Space,Arts/Entertainment/Nightlife,2346,35,yes,https://www.facebook.com/TheImprovSpace
+52179735589,Whole World Improv Theatre,Arts/Entertainment/Nightlife,4958,91,yes,https://www.facebook.com/WholeWorldImprovTheatre
+203809369691276,Improvability,Comedian,904,32,yes,https://www.facebook.com/ucsbimprovability
+152479914955028,UNT Improv Comedy Club,Community,280,4,yes,https://www.facebook.com/UNTImprovCC
+411807695641291,6chix,Artist,418,0,yes,https://www.facebook.com/6chiximprovscad
+354527777913364,Hail Satire! with Vic Shuttee,Podcast,419,0,yes,https://www.facebook.com/HailSatire
+583120118466351,NYC Student Improv Jam,Community,203,2,yes,https://www.facebook.com/NYCStudentJam
+627785570637951,Full Frontal Comedy,Entertainer,671,9,yes,https://www.facebook.com/fullfrontalcomedyiu
+472041879504794,Midnight Book Club,Sports Team,399,11,yes,https://www.facebook.com/MidnightBookClub
+157638164376370,No-Name-Basis,Community,320,0,yes,https://www.facebook.com/NoNameBasis
+364455340296719,Station Theater,Arts/Entertainment/Nightlife,1791,47,yes,https://www.facebook.com/stationimprovtheater
+9059623924,Un-Scripted Theater Company,Arts/Entertainment/Nightlife,1426,103,yes,https://www.facebook.com/UnDashScripted
+264547278949,The Charles Darwin Experience,Community,2321,5,yes,https://www.facebook.com/CDEimprov
+176176049093917,Minneapolis College of Art and Design,Education,120,0,yes,https://www.facebook.com/pages/Minneapolis-College-of-Art-and-Design/176176049093917
+147516389316,Minneapolis College of Art and Design,Education,21118,437,yes,https://www.facebook.com/MCAD.MN
+153835508090032,pH Comedy Theater,Local Business,304,26,no,https://www.facebook.com/pages/pH-Comedy-Theater/153835508090032
+265185955466,Droppin  $cience,Comedian,1014,10,yes,https://www.facebook.com/WeDropScience
+42646166995,Music Box Theatre,Movie Theater,28152,824,yes,https://www.facebook.com/musicboxchicago
+101777309888324,Mercury Theater,Arts/Entertainment/Nightlife,2604,47,yes,https://www.facebook.com/MercuryChicago
+29758740802,DePaul University,Education,57301,1732,yes,https://www.facebook.com/DePaulUniversity
+314951913450,The Midwest Independent Film Festival,Movie,13421,705,yes,https://www.facebook.com/midwestfilm
+43695791236,Goodman Theatre,Non-Profit Organization,48494,1099,yes,https://www.facebook.com/GoodmanTheatre
+24086728644,WTTW Channel 11,Media/News/Publishing,35516,1681,no,https://www.facebook.com/wttw11
+123779520981543,Do312,News/Media Website,33832,816,yes,https://www.facebook.com/Do312
+1396991720561689,Steve Harvey,Public Figure,3950466,85426,no,https://www.facebook.com/SteveHarvey
+37054718736,Riot Fest,Concert Tour,199907,4422,yes,https://www.facebook.com/RiotFest1
+207214106110020,Off Center Theatre,Arts/Entertainment/Nightlife,646,1,yes,https://www.facebook.com/offcentertheatre
+358628962286,Underground Lounge - Chicago,Bar,2574,42,yes,https://www.facebook.com/pages/Underground-Lounge-Chicago/358628962286
+564595296884589,MINt Music Improv Night,Organization,1012,1,yes,https://www.facebook.com/pages/MINt-Music-Improv-Night/564595296884589
+291735040939026,Back Room Comedy,Arts/Entertainment/Nightlife,345,0,yes,https://www.facebook.com/BackRoomComedy
+344487138957576,Smith & I,Comedian,361,0,yes,https://www.facebook.com/smithandicomedyduo
+793505120690766,Scout,Comedian,448,2,yes,https://www.facebook.com/pages/Scout/793505120690766
+425926970846225,The Ruffians,Company,810,1,yes,https://www.facebook.com/breathedarelive
+537723179587162,The improvAcademy,Education,489,16,yes,https://www.facebook.com/theimprovacademy
+101800100890,Thrillist,News/Media Website,516005,585116,yes,https://www.facebook.com/Thrillist
+264311523667736,NSU s OUT on A LIMB: Improv Troupe,Entertainment Website,203,11,yes,https://www.facebook.com/GOBAYSIDE
+54698652664,League of Chicago Theatres,Non-Profit Organization,7257,102,no,https://www.facebook.com/ChicagoPlays
+189872862468,Chicago Shakespeare Theater,Arts/Entertainment/Nightlife,18137,1428,yes,https://www.facebook.com/ChicagoShakespeare
+35789511778,Strawdog Theatre Company,Non-Profit Organization,4990,42,yes,https://www.facebook.com/strawdogtheatre
+177581798922356,The Den Theatre,Arts/Entertainment/Nightlife,3294,115,yes,https://www.facebook.com/pages/The-Den-Theatre/177581798922356
+160479867352972,Chicago Theater Beat,Media/News/Publishing,1228,10,yes,https://www.facebook.com/pages/Chicago-Theater-Beat/160479867352972
+123334484346296,The New York Times - Theater,Website,36918,237,yes,https://www.facebook.com/nytimestheater
+105970573652,Sideshow Theatre Company,Non-Profit Organization,2557,21,yes,https://www.facebook.com/SideshowTheatre
+103100196397220,WXRT-FM,Radio Station,4654,3,no,https://www.facebook.com/pages/WXRT-FM/103100196397220
+84249551721,Seattle Seahawks,Sports Team,3687894,175142,no,https://www.facebook.com/Seahawks
+42693447371,New England Patriots,Sports Team,6171843,432173,no,https://www.facebook.com/newenglandpatriots
+113751412910,Drexel Football Team Comedy Improv,Entertainer,787,1,yes,https://www.facebook.com/DrexelImprov
+237512592962228,TNC Improv Comedy,Comedian,852,17,yes,https://www.facebook.com/tncimprov
+145775305446618,Interrobang Theatre Project,Local Business,1179,0,yes,https://www.facebook.com/InterrobangTheatreProj
+9352223965,ImprovBoston,Arts/Entertainment/Nightlife,3503,157,yes,https://www.facebook.com/ImprovBoston
+241569902853,HUGE Theater,Non-Profit Organization,4850,129,yes,https://www.facebook.com/HUGEtheater
+154682011242104,Magnet Theater,Arts/Entertainment/Nightlife,7080,224,yes,https://www.facebook.com/MagnetTheater
+292666284103800,Shelton Theater,Arts/Entertainment/Nightlife,772,34,yes,https://www.facebook.com/sheltontheater
+12518421349,RedEye,Website,42791,1459,yes,https://www.facebook.com/TheRedEye
+154988974540144,Vittum Theater,Local Business,152,1,no,https://www.facebook.com/pages/Vittum-Theater/154988974540144
+185588324882048,Kick Comedy Theater,Arts/Entertainment/Nightlife,1121,41,yes,https://www.facebook.com/kickcomedy
+250850444938535,ComedyCity,Arts/Entertainment/Nightlife,3069,89,yes,https://www.facebook.com/ComedyCityKC
+173120431716,Spicy Clamato,Public Figure,173,0,yes,https://www.facebook.com/pages/Spicy-Clamato/173120431716
+213647975743,Dead Serious,University,758,1,yes,https://www.facebook.com/deadseriousimprov
+640873212640152,U.H. Manoa s The Double IMPROV Rainbows,Entertainer,301,0,yes,https://www.facebook.com/doubleimprovrainbows
+605364786197157,Vikes Improv,Community,247,4,yes,https://www.facebook.com/VikesImprov
+182084760813,Bluffoons,Public Figure,543,9,yes,https://www.facebook.com/Bluffoons
+106815552707970,ArtsFund,Non-Profit Organization,3514,113,yes,https://www.facebook.com/ArtsFundSeattle
+113174253097,University of Notre Dame,Education,141496,10286,no,https://www.facebook.com/notredame
+47689998796,Fox 32 Chicago,TV Channel,512581,148335,yes,https://www.facebook.com/FoxChicagoNews
+165583971161,ABC 7 Chicago,TV Show,1216549,805480,yes,https://www.facebook.com/abc7chicago
+192609620649,The University of Chicago,University,169839,3972,no,https://www.facebook.com/uchicago
+37873197144,Chicago magazine,Media/News/Publishing,91938,8793,no,https://www.facebook.com/ChicagoMagazine
+12410429859,Jet City Improv,Arts/Entertainment/Nightlife,3805,73,yes,https://www.facebook.com/jetcityimprov
+123955447623024,The Diag Bar and Grill,Bar,1784,195,yes,https://www.facebook.com/diagchicago
+158799914196225,The Athenaeum Theatre - Chicago,Arts/Entertainment/Nightlife,2266,231,yes,https://www.facebook.com/AthenaeumTheatre
+191437269432,IO West - students and alumni,Actor/Director,45,1,yes,https://www.facebook.com/pages/IO-West-students-and-alumni/191437269432
+90243471343,The Katydids,Comedian,2542,43,yes,https://www.facebook.com/thekatydids
+5953023255,Chicago Tribune,News/Media Website,345092,69563,no,https://www.facebook.com/chicagotribune
+47864940833,The Chicago Sun-Times,Media/News/Publishing,211645,67937,no,https://www.facebook.com/thechicagosuntimes
+75994265472,Chicago Reader,Media/News/Publishing,61332,2472,no,https://www.facebook.com/chicagoreader
+233388040042405,Laugh Factory Chicago,Arts/Entertainment/Nightlife,18627,203,yes,https://www.facebook.com/LaughFactoryCh
+154907647888466,The Improv Shop,Arts/Entertainment/Nightlife,3731,45,yes,https://www.facebook.com/theImprovshop
+116855675045263,Chicago Comedy Film Festival,Local Business,1402,31,yes,https://www.facebook.com/chicagocomedyfilmfestival
+13263980999,WBEZ,Media/News/Publishing,60078,2798,no,https://www.facebook.com/wbez915
+151177854895123,Deep Schwa,Entertainer,237,2,yes,https://www.facebook.com/pages/Deep-Schwa/151177854895123
+182071785204472,Chicago Women s Funny Festival,Arts/Entertainment/Nightlife,1716,1,yes,https://www.facebook.com/pages/Chicago-Womens-Funny-Festival/182071785204472
+113553528685803,TBS Network,TV Network,1568109,2364,yes,https://www.facebook.com/TBSNetwork
+184863384895410,TJ and Dave,Comedian,4257,25,yes,https://www.facebook.com/tjanddave
+167757896625450,Life s A Funny Scene,Entertainment Website,1968,1,yes,https://www.facebook.com/LifeIsAFunnyScene
+268369549965750,iO Water Cooler,Website,1246,1,yes,https://www.facebook.com/iOWaterCooler
+261673197270099,Villain,Comedian,736,1,yes,https://www.facebook.com/villainimprov
+116548701336,UPROXX,Society/Culture Website,1463986,1107138,no,https://www.facebook.com/UPROXX
+7465864991,Wait Wait Don t Tell Me,Company,1030360,1463,yes,https://www.facebook.com/nprwaitwait
+253591661347566,Pinterest,App Page,4248921,25612,no,https://www.facebook.com/pinterest
+6191007822,LinkedIn,Website,947836,18778,no,https://www.facebook.com/LinkedIn
+92689703737,Tumblr,News/Media Website,3732884,96710,no,https://www.facebook.com/tumblr
+434566166679412,The Chicago Traveler,Travel/Leisure,626,13,yes,https://www.facebook.com/thechicagotraveler
+1422455907989933,BIG JUDY,Entertainer,289,0,yes,https://www.facebook.com/bigjudyimprov
+122778257740034,The Late 90 s,Comedian,556,7,yes,https://www.facebook.com/thelate90s
+221504864542106,Meridian,Comedian,241,0,yes,https://www.facebook.com/MeridianImprov
+400271930019866,Big Spoon,Entertainer,279,1,yes,https://www.facebook.com/BigSpoonChicago
+759975767396879,Lola,Community,198,1,yes,https://www.facebook.com/pages/Lola/759975767396879
+128427980699351,Denver - an iO Harold Team,Just For Fun,391,1,yes,https://www.facebook.com/DenverAnIoHaroldTeam
+134797326696122,The Ruckus,Artist,534,0,yes,https://www.facebook.com/pages/The-Ruckus/134797326696122
+143690388993779,The iO Comedy Network,Entertainment Website,2684,12,yes,https://www.facebook.com/iOComedyNetwork
+22211200611,The Second City,Public Figure,142452,2202,yes,https://www.facebook.com/thesecondcity
+30996428283,The Improvised Shakespeare Company,Comedian,6254,21,yes,https://www.facebook.com/improvisedshakespeare
+17614953850,Funny Or Die,Entertainment Website,11873218,343435,no,https://www.facebook.com/funnyordie
+41823711878,the Reckoning,Public Figure,1487,32,yes,https://www.facebook.com/reckoningimprov
+7972224358,iO WEST,Arts/Entertainment/Nightlife,8620,448,yes,https://www.facebook.com/iOWest
+19013582168,PBS,TV Network,2355840,102886,no,https://www.facebook.com/pbs
+20950654496,The Onion,Media/News/Publishing,4992796,828960,no,https://www.facebook.com/TheOnion
+59444608495,BASSPROV,Entertainer,1358,0,yes,https://www.facebook.com/BASSPROV
+29659396798,Improv Everywhere,Entertainment Website,357948,529,yes,https://www.facebook.com/improv.everywhere
+52410479860,The Second City Training Center - Chicago,School,22936,262,yes,https://www.facebook.com/TheSecondCityTrainingCenterChicago
+149088408451771,Gorilla Tango Theatre,Local Business,3100,49,yes,https://www.facebook.com/gorillatango
+139292252763205,Stage 773,Local Business,7161,202,yes,https://www.facebook.com/Stage773
+7209490763,Metromix Chicago,Media/News/Publishing,19314,106,no,https://www.facebook.com/Metromix.Chicago
+136722119729214,Improvathon,Arts/Entertainment/Nightlife,164,0,yes,https://www.facebook.com/unclefattyimprov
+30468747503,Whirled News Tonight,Local Business,693,45,yes,https://www.facebook.com/whirlednewstonight
+161348303909198,Around Chicago Now,Local Business,141,0,yes,https://www.facebook.com/pages/Around-Chicago-Now/161348303909198
+34127084244,Time Out Chicago,Media/News/Publishing,85196,18847,no,https://www.facebook.com/timeoutchicago
+526662987435979,Groupon,Company,14224393,1658,yes,https://www.facebook.com/Groupon
+171835792839569,Improvolution,Non-Profit Organization,77,0,yes,https://www.facebook.com/Improvolution
+113191182055448,Seriously Unprepared,Comedian,429,0,yes,https://www.facebook.com/seriouslyunprepared
+108052439227429,Ucb theatre,Organization,323,1,no,https://www.facebook.com/pages/Ucb-theatre/108052439227429
+31470579277,Upright Citizens Brigade Theatre - Los Angeles,Arts/Entertainment/Nightlife,24772,293,yes,https://www.facebook.com/ucbtla
+118270134070,Upright Citizens Brigade Theatre  NY,Arts/Entertainment/Nightlife,19362,133,yes,https://www.facebook.com/UCBTheatreNY
+104032032967618,Upright Citizens Brigade,TV Show,18878,20,yes,https://www.facebook.com/pages/Upright-Citizens-Brigade/104032032967618
+139365594721,The IMPosters,Local Business,230,0,yes,https://www.facebook.com/pages/The-IMPosters/139365594721
+10714086302,Saturday Night Live,TV Show,4670342,347729,no,https://www.facebook.com/snl
+465797810097759,Big City Improv Festival,Comedian,1176,200,yes,https://www.facebook.com/BigCityImprovFestival
+278034888942406,Unscripted New York Improvised Theatre & Film Festival,Non-Profit Organization,386,0,yes,https://www.facebook.com/UnscriptedImprovFest
+504317886296873,Pilsen Improv Festival,Arts/Entertainment/Nightlife,96,1,yes,https://www.facebook.com/pages/Pilsen-Improv-Festival/504317886296873
+386200704726718,Detroit Improv Festival,Non-Profit Organization,1527,3,yes,https://www.facebook.com/detroitimprovfestival
+260505140641574,New Zealand Improv Festival,Arts/Entertainment/Nightlife,737,15,yes,https://www.facebook.com/NZImprovFest
+133519200000046,Gainesville Improv Festival,Local Business,1025,2,yes,https://www.facebook.com/Gainesvilleimprovfest
+283520061762283,Winnipeg Improv Festival,Comedian,438,3,yes,https://www.facebook.com/WinnipegImprovFestival
+325115114967,The San Francisco Improv Festival,Arts/Entertainment/Nightlife,3352,5,yes,https://www.facebook.com/sfimprovfest
+70409438920,American Theatre magazine,Magazine,62490,4555,yes,https://www.facebook.com/AT.magazine
+163610423713826,UP Comedy Club,Arts/Entertainment/Nightlife,13914,253,yes,https://www.facebook.com/upcomedyclub
+227189693761,One Group Mind,Organization,1238,127,yes,https://www.facebook.com/onegroupmind
+379965612133498,Improvisors,Community,967,2,yes,https://www.facebook.com/improvisors
+137664610480,Impro Theatre,Community,2469,31,yes,https://www.facebook.com/Improtheatre
+108686742522473,Tampa Improv,Arts/Entertainment/Nightlife,21896,1482,no,https://www.facebook.com/ImprovTampa
+175617282530353,Improv4humans,Community,3827,23,yes,https://www.facebook.com/improv4humans
+11476309065,The Peoples Improv Theater,Arts/Entertainment/Nightlife,8184,259,yes,https://www.facebook.com/thepitnyc
+109572246055,Improvised Jane Austen,Comedian,1040,60,yes,https://www.facebook.com/improvisedjaneausten
+30201731407,Mission IMPROVable,Comedian,11630,31,yes,https://www.facebook.com/MissionIMPROVable
+13704073586,Steppenwolf Theatre Company,Non-Profit Organization,30323,1129,yes,https://www.facebook.com/SteppenwolfTheatre
+197614093538,SHOCK T s,Musician/Band,1511,0,yes,https://www.facebook.com/SHOCKTs
+54845709323,Chicago Improv Festival,Arts/Entertainment/Nightlife,4229,5,yes,https://www.facebook.com/ChicagoImprovFestival
+13868136236,Del Close,Teacher,4384,6,yes,https://www.facebook.com/delclose
+26003449566,CIC Theater,Arts/Entertainment/Nightlife,3444,73,yes,https://www.facebook.com/cictheater
+146412214932,Northalsted,Non-Profit Organization,7115,350,yes,https://www.facebook.com/northalsted
+207922152562495,Wolodarski,Entertainer,135,0,yes,https://www.facebook.com/pages/Wolodarski/207922152562495
+138810536180171,Upstairs Gallery,Local Business,1976,7,yes,https://www.facebook.com/upstairsgallerychicago
+32565794128,Brown Paper Tickets,Internet/Software,16270,78,yes,https://www.facebook.com/brownpapertickets
+126634689416,BroadwayWorld.com,Website,92562,6443,yes,https://www.facebook.com/BroadwayWorld
+39581755672,The A.V. Club,Media/News/Publishing,363189,47530,no,https://www.facebook.com/theavclub
+285594061540210,Belmont Theater District,Arts/Entertainment/Nightlife,1094,7,yes,https://www.facebook.com/BelmontTheaterDistrict
+264158380288227,Switch Committee,Comedian,3599,17,yes,https://www.facebook.com/switchcommittee
+103834046325834,The Nerdologues,Comedian,1468,27,yes,https://www.facebook.com/pages/The-Nerdologues/103834046325834
+464795503587284,The Playground Theater Incubator Auditions,Local Business,1036,0,yes,https://www.facebook.com/pages/The-Playground-Theater-Incubator-Auditions/464795503587284
+323338461104540,The Mixer at The Playground Theater,Community,779,32,yes,https://www.facebook.com/TheMixerAtThePlaygroundTheater
+660778720628843,The New New Show,Comedian,338,7,yes,https://www.facebook.com/pages/The-New-New-Show/660778720628843
+29227375177,The Playground Theater,Local Business,4815,71,yes,https://www.facebook.com/theplaygroundtheater
+86836262500,MCL Chicago,Non-Profit Organization,1724,110,yes,https://www.facebook.com/pages/MCL-Chicago/86836262500
+142536159040,Bughouse Theater,Local Business,650,27,yes,https://www.facebook.com/pages/Bughouse-Theater/142536159040
+142387772473971,Annoyance Theatre & Bar,Arts/Entertainment/Nightlife,6100,130,yes,https://www.facebook.com/AnnoyanceTheatre
+268841079890521,Second City Up Comedy Club,Local Business,22,1,no,https://www.facebook.com/pages/Second-City-Up-Comedy-Club/268841079890521
+183990224952536,Second City s de Maat Theater,Local Business,129,32,no,https://www.facebook.com/pages/Second-Citys-de-Maat-Theater/183990224952536
+130092357005906,Second City Hollywood,Arts/Entertainment/Nightlife,20628,228,yes,https://www.facebook.com/TheSecondCityHollywood
+161607263957769,The Second City - Main Stage Theater,Local Business,158,174,no,https://www.facebook.com/pages/The-Second-City-Main-Stage-Theater/161607263957769
+118533264885711,Second City Donny s Skybox,Local Business,148,98,no,https://www.facebook.com/pages/Second-City-Donnys-Skybox/118533264885711
+109273449123887,iO Chicago,Arts/Entertainment/Nightlife,9939,654,yes,https://www.facebook.com/iOChicago
+171960889675484,Great White Narcs,Community,668,12,yes,https://www.facebook.com/GreatWhiteNarcsImprov
+158878969254,CSz Theater Chicago,Arts/Entertainment/Nightlife,8753,210,yes,https://www.facebook.com/comedysportzchi
+364616523666669,Under The Gun Theater,Arts/Entertainment/Nightlife,1788,98,yes,https://www.facebook.com/undertheguntheater
+7949049205,Liquid Fun,Comedian,1131,6,yes,https://www.facebook.com/LFImprov
+667557436616702,Tufts Cheap Sox,Entertainer,322,0,yes,https://www.facebook.com/cheapsox
+465365616844046,NU & Improv d,Amateur Sports Team,653,8,yes,https://www.facebook.com/NuImprov
+39956269867,Horse Lincoln Improv,Comedian,250,0,yes,https://www.facebook.com/pages/Horse-Lincoln-Improv/39956269867
+160015624038245,Improv In Sanity,Community,137,0,yes,https://www.facebook.com/pages/Improv-In-Sanity/160015624038245
+221630147901824,Breakfast for Dinner,Entertainer,318,0,yes,https://www.facebook.com/ummimprov
+225323091007300,Funny Bone Mafia,Non-Profit Organization,450,5,yes,https://www.facebook.com/CarrollUImprov
+118266248252249,Angry Ladies of Improv,Entertainer,334,8,yes,https://www.facebook.com/AngryLadiesofImprov
+152636161462286,The Backwards Thinkers Society,Arts/Entertainment/Nightlife,406,2,yes,https://www.facebook.com/BackwardsThinkersSociety
+89641877336,BBQ Kitten Improv Comedy Troupe,Organization,679,15,yes,https://www.facebook.com/pages/BBQ-Kitten-Improv-Comedy-Troupe/89641877336
+112038077874,8th Floor Improv Comedy Group,Arts/Entertainment/Nightlife,2502,2,yes,https://www.facebook.com/8thFloorImprov
+24572485732,CSz Richmond - Home of ComedySportz,Arts/Entertainment/Nightlife,2204,15,yes,https://www.facebook.com/cszrichmond
+103559703037185,Phunbags Comedy Improv,Entertainer,866,0,yes,https://www.facebook.com/phunbagscomedyimprov
+29432758181,Go Comedy! Improv Theater,Arts/Entertainment/Nightlife,7488,322,yes,https://www.facebook.com/GoComedy
+114077815318680,Toast Improv Comedy,Comedian,784,9,yes,https://www.facebook.com/toastimprovcomedy
+457770274253816,Atlanta Improv Comedy Club,Arts/Entertainment/Nightlife,28636,1529,yes,https://www.facebook.com/AtlantaImprov
+146902028702849,Improv in Toronto,Community Organization,7811,4,yes,https://www.facebook.com/improvintoronto
+6546143514,Paperback Rhino,Arts/Entertainment/Nightlife,1483,48,yes,https://www.facebook.com/paperbackrhino
+395824883880874,D+ Improv Troupe // Drake University,University,440,21,yes,https://www.facebook.com/DrakeImprov
+12684049897,pH Productions,Arts/Entertainment/Nightlife,2515,193,yes,https://www.facebook.com/whatisph
+389666257789127,Back in Five Comedy,Comedian,272,0,yes,https://www.facebook.com/BackInFiveComedy
+226516917401644,Don t Throw Shoes,Community,615,1,yes,https://www.facebook.com/pages/Dont-Throw-Shoes/226516917401644
+115926198447805,DeBono Improv,Comedian,234,1,yes,https://www.facebook.com/debonoimprov
+143182875720710,Roial Players,Community,545,37,yes,https://www.facebook.com/roialplayers
+169533599643,Fishbowl Improv,Comedian,1509,1,yes,https://www.facebook.com/FishbowlImprov
+177760268759,ABSO Improv Comedy,University,1039,7,yes,https://www.facebook.com/pages/ABSO-Improv-Comedy/177760268759
+374122676027793,Tall  Grande  Venti,Arts/Entertainment/Nightlife,389,20,yes,https://www.facebook.com/tgvimprov
+353631141388998,SCU s Inoperable Humor,Comedian,428,5,yes,https://www.facebook.com/ScuInoperableHumor
+156219944510180,jericho! improv & sketch comedy,Community,1030,3,yes,https://www.facebook.com/jericho.comedy
+194384780585231,Stanford Improvisors - SImps,Non-Governmental Organization (NGO),289,1,yes,https://www.facebook.com/stanfordimprov
+141817902629578,improv4charity,University,509,2,yes,https://www.facebook.com/Improv4Charity
+226814380706316,Awkward Silence,Local Business,564,2,yes,https://www.facebook.com/awkward.silence.improv
+145508218883848,Best Laid Plans Improv,Community,249,0,yes,https://www.facebook.com/PLEASELIKEUS
+245929772126147,TBD Comedy,Entertainer,362,2,yes,https://www.facebook.com/tbdcomedy
+240308402702278,Schticks and Giggles Improv,Community,286,2,no,https://www.facebook.com/schticksandgiggles
+381277298582896,Scatterbomb,Comedian,310,3,yes,https://www.facebook.com/Scatterbomb
+38148901237,Quipfire! Improv Comedy,Comedian,847,0,yes,https://www.facebook.com/Quipfire
+116975664994420,The Georgetown Improv Association,Comedian,926,6,yes,https://www.facebook.com/GeorgetownImprov
+6148044575,Dangerbox,Public Figure,633,3,yes,https://www.facebook.com/DangerboxNYU
+175093579206755,Three Letter Acronym Improv,Comedian,271,31,yes,https://www.facebook.com/TLAimprov
+174546852618549,A 4 Effort,Comedian,478,1,yes,https://www.facebook.com/A4Effort
+11578281238,Pappy Parker Players,Local Business,808,4,yes,https://www.facebook.com/thepappys
+114063487549,The Ex!t Players,Comedian,374,0,yes,https://www.facebook.com/ExitPlayers
+198750100198783,Stranded In Pittsburgh,Comedian,327,8,yes,https://www.facebook.com/StrandedInPittsburgh
+208142009208861,Off Center,Entertainer,290,44,yes,https://www.facebook.com/OffCenterComedy
+270649949636267,The Loaf,Comedian,441,9,yes,https://www.facebook.com/pages/The-Loaf/270649949636267
+9093906700,Philly Improv Theater (PHIT),Arts/Entertainment/Nightlife,4133,93,yes,https://www.facebook.com/phitcomedy
+588948957834463,Late Night Television,Comedian,218,0,no,https://www.facebook.com/latenighttelevision
+238635406173324,No Bears Allowed,Comedian,1158,21,yes,https://www.facebook.com/NoBearsAllowed
+10007331563,Theatre Strike Force,Local Business,1762,44,yes,https://www.facebook.com/TheatreStrikeForce
+348552728534796,The Treble Makers,Comedian,207,0,yes,https://www.facebook.com/uftreblemakers
+130155620375614,The Mobb Line,Entertainer,252,8,yes,https://www.facebook.com/pages/The-Mobb-Line/130155620375614
+106618716043123,UBC Improv,Local Business,2042,28,yes,https://www.facebook.com/UBCimprov
+126155367299,Varsity Nordic,Local Business,617,1,yes,https://www.facebook.com/pages/Varsity-Nordic/126155367299
+301979943157949,Seattle University D1 Improv,School Sports Team,437,0,yes,https://www.facebook.com/d1improv
+20734269172,Dead Parrots Society,Community,1589,6,yes,https://www.facebook.com/pages/Dead-Parrots-Society/20734269172
+219419944741041,The Ministry of Madness,Entertainer,315,2,yes,https://www.facebook.com/MinistryImprov
+173631176165561,Blue Light Special,Community,77,0,yes,https://www.facebook.com/bluelightspecialiccc
+139736486069193,The Basement Theatre,Arts/Entertainment/Nightlife,2078,15,yes,https://www.facebook.com/TheBasementTheatre
+170672379676405,Theatre UCF,Arts/Entertainment/Nightlife,2723,399,yes,https://www.facebook.com/TheatreUCF
+136805769675081,Toast Improv,Public Figure,496,5,yes,https://www.facebook.com/pages/Toast-Improv/136805769675081
+104685377134,FDR Improv,Comedian,445,1,yes,https://www.facebook.com/unoimprov
+150468765048008,Improv Athens,Organization,1368,61,yes,https://www.facebook.com/pages/Improv-Athens/150468765048008
+131617036900731,Ugly Step Children,Comedian,116,0,yes,https://www.facebook.com/uglystepchildren
+104188312951016,Far Sketched Improv Comedy,Comedian,412,1,yes,https://www.facebook.com/pages/Far-Sketched-Improv-Comedy/104188312951016
+94595658112,Evil Petting Zoo,Community,582,0,yes,https://www.facebook.com/pages/Evil-Petting-Zoo/94595658112
+358059997608914,Bad Genetics Improv,Comedian,289,6,yes,https://www.facebook.com/BadGeneticsImprov
+196397303720695,The Humor Artists,Comedian,519,1,yes,https://www.facebook.com/TheHumorArtistsofND
+110412128996456,ImprompTU,Entertainer,297,0,yes,https://www.facebook.com/TransyImprov
+83010326497,Ship of Fools,Comedian,458,1,yes,https://www.facebook.com/PurdueFools
+37408421095,The Crazy Monkeys,Local Business,1133,36,yes,https://www.facebook.com/thecrazymonkeys
+147408195579,CSz Indianapolis - Home of ComedySportz,Arts/Entertainment/Nightlife,5259,252,yes,https://www.facebook.com/indycsz
+126637604050239,Sketched Out Improv,Organization,1576,33,yes,https://www.facebook.com/musketchedout
+7595220769,Improv Mafia,Community,2342,58,yes,https://www.facebook.com/improvmafia
+324501069500,Red Light School District,Comedian,278,12,yes,https://www.facebook.com/pages/Red-Light-School-District/324501069500
+532700500112878,Lincoln s Security Detail,Arts/Entertainment/Nightlife,120,0,yes,https://www.facebook.com/lsdtroupe
+276198472104,Occam s Razor,Public Figure,476,8,yes,https://www.facebook.com/occamsimprov
+201167224812,Off-Off Campus,University,1429,48,yes,https://www.facebook.com/offoffcampus
+13769747643,45 Kings,Comedian,1171,6,yes,https://www.facebook.com/pages/45-Kings/13769747643
+440110769339513,Latchkey Kid,Entertainer,318,1,yes,https://www.facebook.com/pHLatchkeyKid
+24711372432,The Rat King,Comedian,690,0,yes,https://www.facebook.com/depaulratking
+118174468283757,Nuthouse Improv Comedy,Arts/Entertainment/Nightlife,653,12,yes,https://www.facebook.com/nuthouseimprov
+120610718133666,The Collective Improv Troupe,Comedian,936,23,yes,https://www.facebook.com/collectiveimprov
+355675421192004,Absolute Improv,Entertainer,394,7,yes,https://www.facebook.com/AbsoluteImprov
+404336659637552,The Clay Crows,Entertainer,222,2,yes,https://www.facebook.com/pages/The-Clay-Crows/404336659637552
+109142375837731,SCRIPTed: Lewis & Clark Improv,Community,187,0,yes,https://www.facebook.com/pages/SCRIPTed-Lewis-Clark-Improv/109142375837731
+164743360226709,Third Hand Improv,Attractions/Things to Do,10,0,yes,https://www.facebook.com/pages/Third-Hand-Improv/164743360226709
+114081135273132,The MVC Flatliners,Local Business,223,2,yes,https://www.facebook.com/pages/The-MVC-Flatliners/114081135273132
+6336578918,The Swash Improv,Arts/Entertainment/Nightlife,249,0,yes,https://www.facebook.com/swashimprov
+143494679031019,The Buttered Niblets,Retail and Consumer Merchandise,513,0,yes,https://www.facebook.com/thebutteredniblets
+edgedef>node1 VARCHAR,node2 VARCHAR
+186651794946,115671735190655
+186651794946,800390420049393
+186651794946,1430911063868063
+186651794946,174228359272883
+186651794946,799918056686071
+186651794946,5588828700
+186651794946,35447572453
+186651794946,114173905293120
+186651794946,12201279671
+186651794946,159240067038
+186651794946,112041552195343
+186651794946,386149218109721
+186651794946,26247320522
+186651794946,17472821218
+186651794946,117070478302975
+186651794946,67985126744
+186651794946,241835255869186
+186651794946,157745287588723
+186651794946,429035077156814
+186651794946,121449307867611
+186651794946,12895086428
+186651794946,204381782975901
+186651794946,715242115211036
+186651794946,478297838886202
+186651794946,92738641235
+186651794946,34399107150
+186651794946,360123284022585
+186651794946,423635764348800
+186651794946,113211072047633
+186651794946,213732932141770
+186651794946,277168785626599
+186651794946,148981728456824
+186651794946,1591100074443174
+186651794946,214637758551161
+186651794946,181484765229406
+186651794946,432052846910801
+186651794946,114204605265769
+186651794946,356567591701
+186651794946,6192688417
+186651794946,132411390121709
+186651794946,150357761719133
+186651794946,82777273087
+186651794946,38122503474
+186651794946,141974332502793
+186651794946,111518954681
+186651794946,25360497695
+186651794946,54942390562
+186651794946,91170023874
+186651794946,112283625454862
+186651794946,178292963622
+186651794946,33832613988
+186651794946,273298612771722
+186651794946,142729940353
+186651794946,22360227546
+186651794946,20697868961
+186651794946,34763715137
+186651794946,92169967967
+186651794946,222381471195755
+186651794946,113889395291269
+186651794946,87873693141
+186651794946,6363207806
+186651794946,107963632570817
+186651794946,15932409357
+186651794946,8570160131
+186651794946,103256838688
+186651794946,10522597325
+186651794946,89252861580
+186651794946,24327179853
+186651794946,8390454563
+186651794946,188974064501460
+186651794946,154226994687030
+186651794946,584884218241641
+186651794946,188599282616
+186651794946,75011561973
+186651794946,12574254660
+186651794946,108242225862828
+186651794946,100526673914
+186651794946,86293358032
+186651794946,287143257964
+186651794946,54486905469
+186651794946,45698916714
+186651794946,173021062799
+186651794946,122581057764508
+186651794946,19178688304
+186651794946,163536409904
+186651794946,29464444855
+186651794946,228401243342
+186651794946,134972803193847
+186651794946,21105780752
+186651794946,9776212174
+186651794946,7132530465
+186651794946,12527153330
+186651794946,21489041474
+186651794946,374809010319
+186651794946,8829726273
+186651794946,235601731818
+186651794946,55528788113
+186651794946,10515469841
+186651794946,77858905322
+186651794946,44496359631
+186651794946,71144639929
+186651794946,153869921349804
+186651794946,153360828173209
+186651794946,474777109222419
+186651794946,183118958395593
+186651794946,156596641018365
+186651794946,28728366821
+186651794946,958759454149502
+186651794946,1526920164248232
+186651794946,148341023547
+186651794946,52179735589
+186651794946,203809369691276
+186651794946,152479914955028
+186651794946,411807695641291
+186651794946,354527777913364
+186651794946,583120118466351
+186651794946,627785570637951
+186651794946,472041879504794
+186651794946,157638164376370
+186651794946,364455340296719
+186651794946,9059623924
+186651794946,264547278949
+186651794946,176176049093917
+186651794946,147516389316
+186651794946,153835508090032
+186651794946,265185955466
+186651794946,42646166995
+186651794946,101777309888324
+186651794946,29758740802
+186651794946,314951913450
+186651794946,43695791236
+186651794946,24086728644
+186651794946,123779520981543
+186651794946,1396991720561689
+186651794946,37054718736
+186651794946,207214106110020
+186651794946,358628962286
+186651794946,564595296884589
+186651794946,291735040939026
+186651794946,344487138957576
+186651794946,793505120690766
+186651794946,425926970846225
+186651794946,537723179587162
+186651794946,101800100890
+186651794946,264311523667736
+186651794946,54698652664
+186651794946,189872862468
+186651794946,35789511778
+186651794946,177581798922356
+186651794946,160479867352972
+186651794946,123334484346296
+186651794946,105970573652
+186651794946,103100196397220
+186651794946,84249551721
+186651794946,42693447371
+186651794946,113751412910
+186651794946,237512592962228
+186651794946,145775305446618
+186651794946,9352223965
+186651794946,241569902853
+186651794946,154682011242104
+186651794946,292666284103800
+186651794946,12518421349
+186651794946,154988974540144
+186651794946,185588324882048
+186651794946,250850444938535
+186651794946,173120431716
+186651794946,213647975743
+186651794946,640873212640152
+186651794946,605364786197157
+186651794946,182084760813
+186651794946,106815552707970
+186651794946,113174253097
+186651794946,47689998796
+186651794946,165583971161
+186651794946,192609620649
+186651794946,37873197144
+186651794946,12410429859
+186651794946,123955447623024
+186651794946,158799914196225
+186651794946,191437269432
+186651794946,90243471343
+186651794946,5953023255
+186651794946,47864940833
+186651794946,75994265472
+186651794946,233388040042405
+186651794946,154907647888466
+186651794946,116855675045263
+186651794946,13263980999
+186651794946,151177854895123
+186651794946,182071785204472
+186651794946,113553528685803
+186651794946,184863384895410
+186651794946,167757896625450
+186651794946,268369549965750
+186651794946,261673197270099
+186651794946,116548701336
+186651794946,7465864991
+186651794946,253591661347566
+186651794946,6191007822
+186651794946,92689703737
+186651794946,434566166679412
+186651794946,1422455907989933
+186651794946,122778257740034
+186651794946,221504864542106
+186651794946,400271930019866
+186651794946,759975767396879
+186651794946,128427980699351
+186651794946,134797326696122
+186651794946,143690388993779
+186651794946,22211200611
+186651794946,30996428283
+186651794946,17614953850
+186651794946,41823711878
+186651794946,7972224358
+186651794946,19013582168
+186651794946,20950654496
+186651794946,59444608495
+186651794946,29659396798
+186651794946,52410479860
+186651794946,149088408451771
+186651794946,139292252763205
+186651794946,7209490763
+186651794946,136722119729214
+186651794946,30468747503
+186651794946,161348303909198
+186651794946,34127084244
+186651794946,526662987435979
+186651794946,171835792839569
+186651794946,113191182055448
+186651794946,108052439227429
+186651794946,31470579277
+186651794946,118270134070
+186651794946,104032032967618
+186651794946,139365594721
+186651794946,10714086302
+186651794946,465797810097759
+186651794946,278034888942406
+186651794946,504317886296873
+186651794946,386200704726718
+186651794946,260505140641574
+186651794946,133519200000046
+186651794946,283520061762283
+186651794946,325115114967
+186651794946,70409438920
+186651794946,163610423713826
+186651794946,227189693761
+186651794946,379965612133498
+186651794946,137664610480
+186651794946,108686742522473
+186651794946,175617282530353
+186651794946,11476309065
+186651794946,109572246055
+186651794946,30201731407
+186651794946,13704073586
+186651794946,197614093538
+186651794946,54845709323
+186651794946,13868136236
+186651794946,26003449566
+186651794946,146412214932
+186651794946,207922152562495
+186651794946,138810536180171
+186651794946,32565794128
+186651794946,126634689416
+186651794946,39581755672
+186651794946,285594061540210
+186651794946,264158380288227
+186651794946,103834046325834
+186651794946,464795503587284
+186651794946,323338461104540
+186651794946,660778720628843
+186651794946,29227375177
+186651794946,86836262500
+186651794946,142536159040
+186651794946,142387772473971
+186651794946,268841079890521
+186651794946,183990224952536
+186651794946,130092357005906
+186651794946,161607263957769
+186651794946,118533264885711
+186651794946,109273449123887
+186651794946,171960889675484
+186651794946,158878969254
+186651794946,364616523666669
+186651794946,7949049205
+186651794946,667557436616702
+186651794946,465365616844046
+186651794946,39956269867
+186651794946,160015624038245
+186651794946,221630147901824
+186651794946,225323091007300
+186651794946,118266248252249
+186651794946,152636161462286
+186651794946,89641877336
+186651794946,112038077874
+186651794946,24572485732
+186651794946,103559703037185
+186651794946,29432758181
+186651794946,114077815318680
+186651794946,457770274253816
+186651794946,146902028702849
+186651794946,6546143514
+186651794946,395824883880874
+186651794946,12684049897
+186651794946,389666257789127
+186651794946,226516917401644
+186651794946,115926198447805
+186651794946,143182875720710
+186651794946,169533599643
+186651794946,177760268759
+186651794946,374122676027793
+186651794946,353631141388998
+186651794946,156219944510180
+186651794946,194384780585231
+186651794946,141817902629578
+186651794946,226814380706316
+186651794946,145508218883848
+186651794946,245929772126147
+186651794946,240308402702278
+186651794946,381277298582896
+186651794946,38148901237
+186651794946,116975664994420
+186651794946,6148044575
+186651794946,175093579206755
+186651794946,174546852618549
+186651794946,11578281238
+186651794946,114063487549
+186651794946,198750100198783
+186651794946,208142009208861
+186651794946,270649949636267
+186651794946,9093906700
+186651794946,588948957834463
+186651794946,238635406173324
+186651794946,10007331563
+186651794946,348552728534796
+186651794946,130155620375614
+186651794946,106618716043123
+186651794946,126155367299
+186651794946,301979943157949
+186651794946,20734269172
+186651794946,219419944741041
+186651794946,173631176165561
+186651794946,139736486069193
+186651794946,170672379676405
+186651794946,136805769675081
+186651794946,104685377134
+186651794946,150468765048008
+186651794946,131617036900731
+186651794946,104188312951016
+186651794946,94595658112
+186651794946,358059997608914
+186651794946,196397303720695
+186651794946,110412128996456
+186651794946,83010326497
+186651794946,37408421095
+186651794946,147408195579
+186651794946,126637604050239
+186651794946,7595220769
+186651794946,324501069500
+186651794946,532700500112878
+186651794946,276198472104
+186651794946,201167224812
+186651794946,13769747643
+186651794946,440110769339513
+186651794946,24711372432
+186651794946,118174468283757
+186651794946,120610718133666
+186651794946,355675421192004
+186651794946,404336659637552
+186651794946,109142375837731
+186651794946,164743360226709
+186651794946,114081135273132
+186651794946,6336578918
+186651794946,143494679031019
+115671735190655,92738641235
+1430911063868063,9059623924
+1430911063868063,186651794946
+35447572453,13704073586
+114173905293120,37873197144
+114173905293120,5953023255
+114173905293120,29464444855
+12201279671,5953023255
+12201279671,54942390562
+12201279671,86293358032
+12201279671,34763715137
+26247320522,6191007822
+117070478302975,7465864991
+241835255869186,52410479860
+241835255869186,22211200611
+121449307867611,5953023255
+715242115211036,30996428283
+715242115211036,89252861580
+715242115211036,30468747503
+715242115211036,29227375177
+715242115211036,22211200611
+715242115211036,71144639929
+715242115211036,41823711878
+715242115211036,26003449566
+715242115211036,10714086302
+715242115211036,158878969254
+715242115211036,20950654496
+715242115211036,90243471343
+715242115211036,17614953850
+715242115211036,191437269432
+715242115211036,5953023255
+715242115211036,47864940833
+715242115211036,34127084244
+715242115211036,75994265472
+715242115211036,233388040042405
+715242115211036,116855675045263
+715242115211036,154907647888466
+715242115211036,13263980999
+715242115211036,151177854895123
+715242115211036,268369549965750
+715242115211036,261673197270099
+715242115211036,434566166679412
+715242115211036,1422455907989933
+715242115211036,122778257740034
+715242115211036,759975767396879
+715242115211036,400271930019866
+715242115211036,134797326696122
+715242115211036,221504864542106
+715242115211036,128427980699351
+715242115211036,109273449123887
+715242115211036,54845709323
+715242115211036,142387772473971
+715242115211036,323338461104540
+478297838886202,186651794946
+478297838886202,6148044575
+92738641235,115671735190655
+34399107150,21105780752
+34399107150,29464444855
+34399107150,20697868961
+34399107150,374809010319
+34399107150,103256838688
+34399107150,87873693141
+34399107150,192609620649
+34399107150,15932409357
+360123284022585,7949049205
+360123284022585,213647975743
+360123284022585,6546143514
+360123284022585,38148901237
+360123284022585,188974064501460
+360123284022585,184863384895410
+360123284022585,175093579206755
+360123284022585,112038077874
+360123284022585,10522597325
+360123284022585,22211200611
+360123284022585,164743360226709
+360123284022585,24711372432
+360123284022585,265185955466
+360123284022585,7595220769
+360123284022585,6148044575
+360123284022585,9352223965
+360123284022585,186651794946
+360123284022585,34399107150
+423635764348800,9776212174
+423635764348800,13704073586
+423635764348800,43695791236
+423635764348800,47864940833
+423635764348800,54698652664
+423635764348800,42646166995
+423635764348800,5953023255
+423635764348800,324501069500
+423635764348800,715242115211036
+423635764348800,37408421095
+423635764348800,122778257740034
+423635764348800,75994265472
+423635764348800,660778720628843
+423635764348800,121449307867611
+423635764348800,12895086428
+423635764348800,34127084244
+423635764348800,165583971161
+423635764348800,197614093538
+423635764348800,167757896625450
+423635764348800,22211200611
+423635764348800,47689998796
+423635764348800,264158380288227
+423635764348800,7209490763
+423635764348800,12518421349
+423635764348800,86836262500
+423635764348800,227189693761
+423635764348800,358628962286
+423635764348800,158878969254
+423635764348800,142387772473971
+423635764348800,109273449123887
+423635764348800,138810536180171
+423635764348800,163610423713826
+423635764348800,139292252763205
+423635764348800,29227375177
+423635764348800,26003449566
+423635764348800,90243471343
+423635764348800,7595220769
+423635764348800,186651794946
+423635764348800,54845709323
+113211072047633,41823711878
+113211072047633,186651794946
+113211072047633,52410479860
+113211072047633,22211200611
+113211072047633,109273449123887
+213732932141770,395824883880874
+213732932141770,186651794946
+213732932141770,173631176165561
+213732932141770,171960889675484
+213732932141770,6546143514
+277168785626599,186651794946
+277168785626599,6546143514
+214637758551161,29227375177
+214637758551161,149088408451771
+214637758551161,139292252763205
+214637758551161,158878969254
+214637758551161,52410479860
+214637758551161,54698652664
+214637758551161,178292963622
+214637758551161,86836262500
+214637758551161,26003449566
+214637758551161,75994265472
+214637758551161,34127084244
+214637758551161,7209490763
+214637758551161,12518421349
+214637758551161,22211200611
+214637758551161,186651794946
+214637758551161,440110769339513
+214637758551161,24711372432
+214637758551161,265185955466
+214637758551161,12684049897
+214637758551161,29659396798
+214637758551161,54845709323
+214637758551161,109273449123887
+181484765229406,54698652664
+181484765229406,109572246055
+181484765229406,109273449123887
+181484765229406,142536159040
+181484765229406,429035077156814
+181484765229406,182071785204472
+181484765229406,10714086302
+181484765229406,165583971161
+181484765229406,42646166995
+181484765229406,12518421349
+181484765229406,160479867352972
+181484765229406,7209490763
+432052846910801,169533599643
+432052846910801,186651794946
+432052846910801,112038077874
+432052846910801,115926198447805
+38122503474,12410429859
+111518954681,19178688304
+111518954681,228401243342
+111518954681,29464444855
+111518954681,192609620649
+111518954681,12518421349
+111518954681,24086728644
+25360497695,47864940833
+25360497695,165583971161
+25360497695,5953023255
+91170023874,165583971161
+91170023874,222381471195755
+91170023874,142729940353
+91170023874,100526673914
+178292963622,86293358032
+178292963622,214637758551161
+273298612771722,37873197144
+20697868961,87873693141
+20697868961,19013582168
+34763715137,163536409904
+92169967967,29758740802
+92169967967,163536409904
+222381471195755,75011561973
+222381471195755,34127084244
+222381471195755,37873197144
+222381471195755,19178688304
+6363207806,112041552195343
+6363207806,163610423713826
+6363207806,17614953850
+6363207806,29659396798
+10522597325,29659396798
+10522597325,17614953850
+10522597325,6363207806
+10522597325,31470579277
+10522597325,13868136236
+10522597325,20950654496
+10522597325,118270134070
+89252861580,7972224358
+89252861580,31470579277
+89252861580,138810536180171
+89252861580,30996428283
+89252861580,109273449123887
+24327179853,37408421095
+24327179853,7595220769
+24327179853,113211072047633
+24327179853,237512592962228
+24327179853,143494679031019
+24327179853,71144639929
+24327179853,207922152562495
+24327179853,153869921349804
+24327179853,133519200000046
+24327179853,142387772473971
+24327179853,7972224358
+24327179853,10522597325
+24327179853,13868136236
+24327179853,22211200611
+24327179853,151177854895123
+24327179853,90243471343
+24327179853,143690388993779
+24327179853,197614093538
+24327179853,89252861580
+24327179853,109273449123887
+24327179853,158878969254
+24327179853,154907647888466
+24327179853,186651794946
+24327179853,29659396798
+24327179853,30996428283
+8390454563,22211200611
+8390454563,17614953850
+188974064501460,175617282530353
+188974064501460,43695791236
+188974064501460,163610423713826
+188974064501460,429035077156814
+188974064501460,30468747503
+188974064501460,13263980999
+188974064501460,177581798922356
+188974064501460,70409438920
+188974064501460,35789511778
+188974064501460,29659396798
+188974064501460,90243471343
+188974064501460,364616523666669
+188974064501460,201167224812
+188974064501460,154682011242104
+188974064501460,11476309065
+188974064501460,30996428283
+188974064501460,118270134070
+188974064501460,31470579277
+188974064501460,386200704726718
+188974064501460,154907647888466
+188974064501460,54845709323
+188974064501460,22211200611
+188974064501460,13704073586
+188974064501460,59444608495
+188974064501460,142387772473971
+188974064501460,7972224358
+188974064501460,139292252763205
+188974064501460,17614953850
+188974064501460,10714086302
+188974064501460,71144639929
+188974064501460,109273449123887
+188974064501460,184863384895410
+188974064501460,26003449566
+188974064501460,29227375177
+188974064501460,158878969254
+188974064501460,41823711878
+188974064501460,89252861580
+188974064501460,143690388993779
+154226994687030,11476309065
+154226994687030,207922152562495
+154226994687030,154682011242104
+154226994687030,89252861580
+154226994687030,386200704726718
+154226994687030,138810536180171
+154226994687030,122778257740034
+154226994687030,24327179853
+154226994687030,109273449123887
+154226994687030,154907647888466
+188599282616,21105780752
+12574254660,33832613988
+86293358032,5953023255
+86293358032,178292963622
+287143257964,121449307867611
+287143257964,5953023255
+54486905469,47864940833
+54486905469,189872862468
+54486905469,7132530465
+54486905469,29758740802
+54486905469,273298612771722
+54486905469,222381471195755
+54486905469,173021062799
+54486905469,45698916714
+54486905469,35447572453
+45698916714,19178688304
+45698916714,228401243342
+45698916714,34127084244
+45698916714,165583971161
+45698916714,47864940833
+45698916714,12518421349
+45698916714,5953023255
+45698916714,24086728644
+45698916714,13263980999
+45698916714,75994265472
+45698916714,92169967967
+173021062799,121449307867611
+173021062799,12518421349
+173021062799,222381471195755
+173021062799,92169967967
+163536409904,228401243342
+163536409904,100526673914
+163536409904,55528788113
+163536409904,21105780752
+29464444855,114173905293120
+9776212174,75994265472
+9776212174,43695791236
+9776212174,189872862468
+9776212174,13704073586
+9776212174,7132530465
+9776212174,108242225862828
+9776212174,5953023255
+9776212174,165583971161
+9776212174,121449307867611
+9776212174,47864940833
+9776212174,34127084244
+9776212174,54698652664
+7132530465,265185955466
+8829726273,55528788113
+8829726273,84249551721
+55528788113,100526673914
+55528788113,141974332502793
+55528788113,21105780752
+10515469841,55528788113
+10515469841,134972803193847
+10515469841,6192688417
+10515469841,8829726273
+153869921349804,182071785204472
+153869921349804,133519200000046
+153869921349804,71144639929
+153869921349804,9059623924
+153869921349804,139292252763205
+153869921349804,149088408451771
+153869921349804,109273449123887
+153869921349804,30996428283
+153869921349804,52410479860
+153869921349804,22211200611
+153869921349804,109572246055
+153869921349804,54845709323
+153869921349804,26003449566
+153869921349804,13704073586
+153869921349804,29227375177
+153869921349804,41823711878
+156596641018365,130092357005906
+156596641018365,39581755672
+156596641018365,70409438920
+156596641018365,10714086302
+156596641018365,31470579277
+156596641018365,52410479860
+156596641018365,29659396798
+156596641018365,17614953850
+156596641018365,22211200611
+156596641018365,116548701336
+156596641018365,123334484346296
+156596641018365,148341023547
+156596641018365,10522597325
+156596641018365,6363207806
+156596641018365,429035077156814
+156596641018365,241835255869186
+156596641018365,67985126744
+156596641018365,20950654496
+156596641018365,186651794946
+958759454149502,354527777913364
+958759454149502,364455340296719
+958759454149502,186651794946
+958759454149502,24572485732
+958759454149502,158878969254
+958759454149502,147408195579
+958759454149502,245929772126147
+958759454149502,356567591701
+958759454149502,156219944510180
+958759454149502,203809369691276
+958759454149502,120610718133666
+958759454149502,264547278949
+148341023547,130092357005906
+148341023547,31470579277
+148341023547,7972224358
+52179735589,139736486069193
+52179735589,20950654496
+152479914955028,5588828700
+411807695641291,800390420049393
+411807695641291,13769747643
+411807695641291,472041879504794
+411807695641291,6546143514
+354527777913364,186651794946
+583120118466351,800390420049393
+583120118466351,118174468283757
+583120118466351,381277298582896
+583120118466351,208142009208861
+583120118466351,175093579206755
+583120118466351,112038077874
+583120118466351,186651794946
+583120118466351,11476309065
+583120118466351,478297838886202
+583120118466351,154682011242104
+583120118466351,198750100198783
+583120118466351,6148044575
+472041879504794,386200704726718
+472041879504794,186651794946
+157638164376370,358059997608914
+364455340296719,11476309065
+364455340296719,118270134070
+364455340296719,31470579277
+364455340296719,186651794946
+9059623924,325115114967
+9059623924,1430911063868063
+9059623924,465797810097759
+9059623924,353631141388998
+9059623924,156219944510180
+9059623924,356567591701
+9059623924,186651794946
+9059623924,194384780585231
+9059623924,374122676027793
+264547278949,958759454149502
+264547278949,52410479860
+265185955466,106618716043123
+265185955466,214637758551161
+265185955466,12684049897
+265185955466,24711372432
+42646166995,22211200611
+42646166995,37054718736
+42646166995,123955447623024
+42646166995,26003449566
+42646166995,39581755672
+42646166995,12518421349
+42646166995,111518954681
+42646166995,13263980999
+42646166995,52410479860
+42646166995,101777309888324
+101777309888324,29758740802
+101777309888324,35447572453
+101777309888324,37873197144
+101777309888324,7209490763
+101777309888324,22211200611
+101777309888324,123779520981543
+101777309888324,233388040042405
+101777309888324,75994265472
+101777309888324,12518421349
+101777309888324,47864940833
+101777309888324,5953023255
+101777309888324,13704073586
+101777309888324,189872862468
+101777309888324,35789511778
+101777309888324,139292252763205
+101777309888324,42646166995
+101777309888324,43695791236
+101777309888324,54698652664
+314951913450,7132530465
+43695791236,189872862468
+43695791236,54698652664
+43695791236,13704073586
+24086728644,526662987435979
+24086728644,47864940833
+24086728644,5953023255
+24086728644,35447572453
+24086728644,228401243342
+24086728644,13263980999
+24086728644,19013582168
+123779520981543,146412214932
+123779520981543,37054718736
+123779520981543,20950654496
+123779520981543,75994265472
+123779520981543,9776212174
+123779520981543,117070478302975
+123779520981543,34127084244
+1396991720561689,386149218109721
+37054718736,13263980999
+37054718736,123779520981543
+564595296884589,86836262500
+291735040939026,264158380288227
+291735040939026,138810536180171
+344487138957576,291735040939026
+344487138957576,153869921349804
+344487138957576,149088408451771
+344487138957576,12684049897
+344487138957576,86836262500
+344487138957576,138810536180171
+344487138957576,139292252763205
+344487138957576,29227375177
+344487138957576,22211200611
+344487138957576,109273449123887
+344487138957576,142387772473971
+793505120690766,323338461104540
+793505120690766,151177854895123
+793505120690766,109273449123887
+264311523667736,109273449123887
+264311523667736,7972224358
+264311523667736,143690388993779
+264311523667736,186651794946
+264311523667736,10714086302
+264311523667736,22211200611
+54698652664,5953023255
+54698652664,70409438920
+54698652664,52410479860
+54698652664,163610423713826
+54698652664,34127084244
+54698652664,13263980999
+54698652664,158878969254
+54698652664,75994265472
+54698652664,101777309888324
+54698652664,145775305446618
+54698652664,22211200611
+54698652664,139292252763205
+54698652664,105970573652
+54698652664,149088408451771
+54698652664,189872862468
+54698652664,54845709323
+54698652664,26003449566
+54698652664,43695791236
+54698652664,13704073586
+54698652664,35789511778
+54698652664,142387772473971
+54698652664,9776212174
+189872862468,70409438920
+189872862468,45698916714
+189872862468,7132530465
+189872862468,29464444855
+189872862468,173021062799
+189872862468,19178688304
+189872862468,192609620649
+189872862468,37873197144
+189872862468,54486905469
+189872862468,163610423713826
+189872862468,5953023255
+189872862468,24086728644
+189872862468,7465864991
+189872862468,43695791236
+189872862468,12518421349
+189872862468,13704073586
+189872862468,22211200611
+189872862468,54698652664
+189872862468,13263980999
+177581798922356,43695791236
+177581798922356,34127084244
+177581798922356,13704073586
+160479867352972,163610423713826
+160479867352972,158799914196225
+160479867352972,22211200611
+160479867352972,26003449566
+160479867352972,145775305446618
+160479867352972,101777309888324
+160479867352972,9776212174
+160479867352972,70409438920
+160479867352972,177581798922356
+160479867352972,139292252763205
+160479867352972,105970573652
+160479867352972,35789511778
+160479867352972,123334484346296
+160479867352972,189872862468
+160479867352972,43695791236
+160479867352972,13704073586
+160479867352972,54698652664
+105970573652,158878969254
+105970573652,70409438920
+105970573652,35789511778
+105970573652,54698652664
+105970573652,13704073586
+237512592962228,7595220769
+145775305446618,103100196397220
+145775305446618,105970573652
+145775305446618,123334484346296
+145775305446618,13263980999
+145775305446618,160479867352972
+145775305446618,75994265472
+145775305446618,34127084244
+145775305446618,177581798922356
+145775305446618,13704073586
+145775305446618,35789511778
+145775305446618,70409438920
+145775305446618,189872862468
+145775305446618,54698652664
+9352223965,54845709323
+9352223965,465797810097759
+9352223965,197614093538
+9352223965,154682011242104
+9352223965,17614953850
+241569902853,118270134070
+241569902853,31470579277
+241569902853,142387772473971
+241569902853,221630147901824
+241569902853,264158380288227
+241569902853,109273449123887
+241569902853,6546143514
+241569902853,139736486069193
+241569902853,12684049897
+241569902853,188974064501460
+241569902853,386200704726718
+241569902853,154682011242104
+241569902853,265185955466
+241569902853,59444608495
+241569902853,20950654496
+241569902853,54845709323
+241569902853,19013582168
+241569902853,277168785626599
+241569902853,186651794946
+241569902853,7465864991
+241569902853,184863384895410
+154682011242104,325115114967
+154682011242104,39581755672
+154682011242104,8390454563
+154682011242104,29659396798
+154682011242104,54845709323
+154682011242104,13868136236
+292666284103800,70409438920
+12518421349,42646166995
+12518421349,109273449123887
+12518421349,13263980999
+12518421349,117070478302975
+12518421349,75994265472
+12518421349,163610423713826
+12518421349,123779520981543
+12518421349,233388040042405
+12518421349,34127084244
+12518421349,92689703737
+12518421349,121449307867611
+12518421349,22211200611
+12518421349,5953023255
+12518421349,20950654496
+12518421349,37873197144
+12518421349,7209490763
+250850444938535,77858905322
+213647975743,186651794946
+213647975743,360123284022585
+213647975743,160015624038245
+213647975743,175093579206755
+213647975743,17614953850
+213647975743,8390454563
+213647975743,10714086302
+213647975743,29659396798
+213647975743,22211200611
+213647975743,118270134070
+640873212640152,29659396798
+640873212640152,264311523667736
+640873212640152,7972224358
+640873212640152,109273449123887
+640873212640152,186651794946
+182084760813,605364786197157
+182084760813,113211072047633
+182084760813,203809369691276
+182084760813,264547278949
+182084760813,152479914955028
+182084760813,150468765048008
+182084760813,411807695641291
+182084760813,6546143514
+182084760813,7595220769
+182084760813,13769747643
+182084760813,360123284022585
+182084760813,355675421192004
+182084760813,301979943157949
+182084760813,404336659637552
+182084760813,120610718133666
+182084760813,106618716043123
+182084760813,126155367299
+182084760813,186651794946
+182084760813,109142375837731
+182084760813,20734269172
+182084760813,12410429859
+106815552707970,12410429859
+106815552707970,19013582168
+106815552707970,84249551721
+192609620649,35447572453
+37873197144,121449307867611
+37873197144,5953023255
+37873197144,12518421349
+37873197144,7209490763
+12410429859,106618716043123
+12410429859,301979943157949
+12410429859,120610718133666
+12410429859,605364786197157
+12410429859,20734269172
+12410429859,355675421192004
+12410429859,126155367299
+12410429859,182084760813
+12410429859,186651794946
+12410429859,8829726273
+12410429859,38122503474
+12410429859,404336659637552
+12410429859,106815552707970
+12410429859,142387772473971
+12410429859,241569902853
+123955447623024,7209490763
+123955447623024,158799914196225
+158799914196225,123955447623024
+158799914196225,285594061540210
+158799914196225,101777309888324
+158799914196225,86836262500
+158799914196225,158878969254
+158799914196225,142387772473971
+158799914196225,26003449566
+158799914196225,7465864991
+158799914196225,9776212174
+158799914196225,20950654496
+158799914196225,35789511778
+158799914196225,13263980999
+158799914196225,75994265472
+158799914196225,13704073586
+158799914196225,34127084244
+158799914196225,43695791236
+158799914196225,42646166995
+158799914196225,189872862468
+158799914196225,139292252763205
+158799914196225,54698652664
+5953023255,12518421349
+47864940833,13263980999
+47864940833,75994265472
+75994265472,149088408451771
+75994265472,43695791236
+75994265472,37054718736
+75994265472,233388040042405
+75994265472,13704073586
+75994265472,158878969254
+75994265472,54698652664
+75994265472,12518421349
+75994265472,42646166995
+75994265472,13263980999
+233388040042405,75994265472
+233388040042405,285594061540210
+233388040042405,146412214932
+233388040042405,143690388993779
+233388040042405,163610423713826
+233388040042405,22211200611
+233388040042405,29758740802
+233388040042405,109273449123887
+233388040042405,165583971161
+233388040042405,5953023255
+233388040042405,123779520981543
+233388040042405,20950654496
+233388040042405,17614953850
+233388040042405,113553528685803
+233388040042405,37873197144
+233388040042405,121449307867611
+233388040042405,12518421349
+233388040042405,159240067038
+233388040042405,34127084244
+233388040042405,47864940833
+233388040042405,116855675045263
+154907647888466,188974064501460
+154907647888466,8390454563
+154907647888466,7972224358
+154907647888466,197614093538
+154907647888466,154226994687030
+154907647888466,122778257740034
+154907647888466,10714086302
+154907647888466,24327179853
+154907647888466,13868136236
+154907647888466,89252861580
+154907647888466,41823711878
+154907647888466,71144639929
+154907647888466,10522597325
+154907647888466,30996428283
+154907647888466,22211200611
+154907647888466,109273449123887
+154907647888466,143690388993779
+116855675045263,29464444855
+116855675045263,52410479860
+116855675045263,20950654496
+116855675045263,182071785204472
+116855675045263,233388040042405
+116855675045263,29227375177
+116855675045263,7972224358
+116855675045263,22211200611
+116855675045263,143690388993779
+116855675045263,109273449123887
+13263980999,7465864991
+151177854895123,22211200611
+151177854895123,109273449123887
+182071785204472,344487138957576
+182071785204472,153869921349804
+184863384895410,109273449123887
+184863384895410,11476309065
+167757896625450,264158380288227
+167757896625450,268369549965750
+167757896625450,54845709323
+167757896625450,139292252763205
+167757896625450,138810536180171
+167757896625450,142387772473971
+167757896625450,22211200611
+167757896625450,17614953850
+167757896625450,26003449566
+167757896625450,184863384895410
+167757896625450,89252861580
+167757896625450,109273449123887
+167757896625450,30996428283
+268369549965750,89252861580
+268369549965750,31470579277
+268369549965750,10522597325
+268369549965750,118270134070
+268369549965750,116548701336
+268369549965750,143690388993779
+268369549965750,10714086302
+268369549965750,7972224358
+268369549965750,109273449123887
+261673197270099,325115114967
+261673197270099,233388040042405
+261673197270099,264158380288227
+261673197270099,26003449566
+261673197270099,90243471343
+261673197270099,138810536180171
+261673197270099,29227375177
+261673197270099,221504864542106
+261673197270099,89252861580
+261673197270099,139292252763205
+261673197270099,151177854895123
+261673197270099,71144639929
+261673197270099,122778257740034
+253591661347566,101800100890
+92689703737,253591661347566
+122778257740034,11476309065
+122778257740034,154226994687030
+122778257740034,154907647888466
+122778257740034,71144639929
+122778257740034,109273449123887
+221504864542106,261673197270099
+221504864542106,11476309065
+221504864542106,30996428283
+221504864542106,89252861580
+221504864542106,227189693761
+221504864542106,90243471343
+221504864542106,103834046325834
+221504864542106,13868136236
+221504864542106,22211200611
+221504864542106,54845709323
+221504864542106,41823711878
+221504864542106,29227375177
+221504864542106,142387772473971
+221504864542106,71144639929
+221504864542106,143690388993779
+221504864542106,197614093538
+221504864542106,184863384895410
+221504864542106,109572246055
+221504864542106,138810536180171
+221504864542106,109273449123887
+400271930019866,261673197270099
+759975767396879,221504864542106
+134797326696122,122778257740034
+134797326696122,261673197270099
+134797326696122,109273449123887
+134797326696122,264158380288227
+134797326696122,128427980699351
+143690388993779,268369549965750
+143690388993779,182071785204472
+143690388993779,7972224358
+143690388993779,90243471343
+143690388993779,109273449123887
+22211200611,54845709323
+22211200611,184863384895410
+22211200611,5953023255
+22211200611,10714086302
+22211200611,34127084244
+22211200611,142387772473971
+22211200611,52410479860
+22211200611,163610423713826
+30996428283,10007331563
+30996428283,167757896625450
+30996428283,89252861580
+30996428283,10522597325
+30996428283,143690388993779
+30996428283,158878969254
+30996428283,142387772473971
+30996428283,22211200611
+30996428283,189872862468
+30996428283,109273449123887
+41823711878,192609620649
+41823711878,7132530465
+41823711878,5953023255
+41823711878,154682011242104
+41823711878,118270134070
+41823711878,154226994687030
+41823711878,113211072047633
+41823711878,138810536180171
+41823711878,221504864542106
+41823711878,42646166995
+41823711878,142387772473971
+41823711878,133519200000046
+41823711878,10007331563
+41823711878,75994265472
+41823711878,122778257740034
+41823711878,158878969254
+41823711878,10714086302
+41823711878,13704073586
+41823711878,109273449123887
+41823711878,20950654496
+41823711878,197614093538
+41823711878,143690388993779
+41823711878,22211200611
+41823711878,29227375177
+41823711878,54845709323
+41823711878,26003449566
+41823711878,59444608495
+41823711878,90243471343
+41823711878,13868136236
+41823711878,52410479860
+41823711878,130092357005906
+41823711878,71144639929
+41823711878,30996428283
+41823711878,89252861580
+41823711878,7972224358
+7972224358,191437269432
+7972224358,184863384895410
+7972224358,116548701336
+7972224358,7465864991
+7972224358,92689703737
+7972224358,253591661347566
+7972224358,143690388993779
+7972224358,17614953850
+7972224358,90243471343
+7972224358,31470579277
+7972224358,10714086302
+7972224358,30201731407
+7972224358,157745287588723
+7972224358,89252861580
+7972224358,109273449123887
+7972224358,8390454563
+7972224358,268369549965750
+7972224358,188974064501460
+7972224358,38148901237
+7972224358,429035077156814
+7972224358,41823711878
+7972224358,10522597325
+7972224358,22211200611
+7972224358,130092357005906
+7972224358,13868136236
+7972224358,29659396798
+19013582168,24086728644
+20950654496,39581755672
+59444608495,139292252763205
+59444608495,13868136236
+29659396798,6363207806
+52410479860,163610423713826
+52410479860,130092357005906
+52410479860,22211200611
+149088408451771,22211200611
+149088408451771,314951913450
+139292252763205,158878969254
+139292252763205,13704073586
+139292252763205,285594061540210
+139292252763205,182071785204472
+139292252763205,22211200611
+7209490763,35447572453
+7209490763,22211200611
+7209490763,429035077156814
+7209490763,86836262500
+7209490763,121449307867611
+7209490763,92689703737
+7209490763,34127084244
+7209490763,43695791236
+7209490763,13704073586
+7209490763,75994265472
+7209490763,42646166995
+7209490763,5953023255
+7209490763,20950654496
+7209490763,37873197144
+7209490763,109273449123887
+7209490763,12518421349
+136722119729214,31470579277
+136722119729214,13868136236
+136722119729214,109273449123887
+136722119729214,7972224358
+136722119729214,12684049897
+136722119729214,30996428283
+136722119729214,54845709323
+136722119729214,158878969254
+136722119729214,26003449566
+136722119729214,133519200000046
+136722119729214,325115114967
+136722119729214,29227375177
+136722119729214,118270134070
+136722119729214,29659396798
+171835792839569,54845709323
+171835792839569,12410429859
+113191182055448,142387772473971
+113191182055448,158878969254
+113191182055448,138810536180171
+113191182055448,26003449566
+31470579277,10522597325
+31470579277,20950654496
+31470579277,13868136236
+118270134070,6363207806
+118270134070,10522597325
+118270134070,20950654496
+118270134070,13868136236
+118270134070,31470579277
+139365594721,423635764348800
+465797810097759,139736486069193
+465797810097759,9093906700
+465797810097759,29432758181
+465797810097759,386200704726718
+465797810097759,54845709323
+465797810097759,133519200000046
+465797810097759,184863384895410
+465797810097759,9352223965
+465797810097759,22211200611
+465797810097759,89252861580
+465797810097759,154682011242104
+465797810097759,142387772473971
+465797810097759,7972224358
+465797810097759,109273449123887
+465797810097759,31470579277
+465797810097759,118270134070
+278034888942406,9093906700
+278034888942406,184863384895410
+278034888942406,118270134070
+278034888942406,22211200611
+278034888942406,154682011242104
+278034888942406,11476309065
+386200704726718,157745287588723
+386200704726718,344487138957576
+386200704726718,423635764348800
+386200704726718,264158380288227
+386200704726718,379965612133498
+386200704726718,184863384895410
+386200704726718,325115114967
+386200704726718,154226994687030
+386200704726718,188974064501460
+386200704726718,54845709323
+386200704726718,29432758181
+386200704726718,29227375177
+386200704726718,118270134070
+386200704726718,31470579277
+386200704726718,7972224358
+386200704726718,109273449123887
+386200704726718,130092357005906
+386200704726718,22211200611
+260505140641574,54845709323
+133519200000046,207922152562495
+133519200000046,153869921349804
+133519200000046,71144639929
+133519200000046,24327179853
+133519200000046,143494679031019
+133519200000046,264547278949
+133519200000046,10007331563
+133519200000046,186651794946
+133519200000046,11476309065
+133519200000046,146902028702849
+133519200000046,52179735589
+133519200000046,29659396798
+325115114967,9059623924
+325115114967,29659396798
+325115114967,130092357005906
+325115114967,11476309065
+325115114967,109273449123887
+325115114967,118270134070
+325115114967,31470579277
+325115114967,54845709323
+325115114967,7972224358
+325115114967,22211200611
+325115114967,13868136236
+163610423713826,5953023255
+163610423713826,39581755672
+163610423713826,20950654496
+163610423713826,101800100890
+163610423713826,12518421349
+163610423713826,142387772473971
+163610423713826,22211200611
+227189693761,20950654496
+227189693761,241569902853
+379965612133498,130092357005906
+379965612133498,142387772473971
+379965612133498,154682011242104
+379965612133498,386200704726718
+379965612133498,325115114967
+109572246055,34127084244
+109572246055,37873197144
+109572246055,75994265472
+109572246055,182071785204472
+109572246055,12518421349
+109572246055,142536159040
+109572246055,143690388993779
+109572246055,158878969254
+109572246055,139292252763205
+109572246055,39581755672
+109572246055,26003449566
+109572246055,22211200611
+109572246055,109273449123887
+109572246055,54845709323
+109572246055,142387772473971
+109572246055,30996428283
+109572246055,29227375177
+30201731407,29227375177
+30201731407,154907647888466
+30201731407,89252861580
+30201731407,12684049897
+30201731407,8390454563
+30201731407,10714086302
+13704073586,7209490763
+13704073586,75994265472
+13704073586,37873197144
+13704073586,13263980999
+13704073586,189872862468
+13704073586,70409438920
+13704073586,54698652664
+13704073586,43695791236
+197614093538,89252861580
+197614093538,184863384895410
+197614093538,158878969254
+197614093538,139292252763205
+197614093538,122778257740034
+197614093538,264158380288227
+197614093538,133519200000046
+197614093538,221504864542106
+197614093538,26003449566
+197614093538,29227375177
+197614093538,138810536180171
+54845709323,86836262500
+54845709323,364616523666669
+54845709323,90243471343
+54845709323,13769747643
+54845709323,7595220769
+54845709323,153869921349804
+54845709323,423635764348800
+54845709323,12684049897
+54845709323,13263980999
+54845709323,184863384895410
+54845709323,314951913450
+54845709323,12518421349
+54845709323,142536159040
+54845709323,103834046325834
+54845709323,175617282530353
+54845709323,108686742522473
+54845709323,11476309065
+54845709323,379965612133498
+54845709323,137664610480
+54845709323,163610423713826
+54845709323,227189693761
+54845709323,70409438920
+54845709323,325115114967
+54845709323,283520061762283
+54845709323,260505140641574
+54845709323,133519200000046
+54845709323,386200704726718
+54845709323,504317886296873
+54845709323,465797810097759
+54845709323,278034888942406
+54845709323,146902028702849
+54845709323,10714086302
+54845709323,139365594721
+54845709323,104032032967618
+54845709323,118270134070
+54845709323,31470579277
+54845709323,108052439227429
+54845709323,113191182055448
+54845709323,171835792839569
+54845709323,37873197144
+54845709323,161348303909198
+54845709323,34127084244
+54845709323,136722119729214
+54845709323,29432758181
+54845709323,30468747503
+54845709323,71144639929
+54845709323,109572246055
+54845709323,7209490763
+54845709323,149088408451771
+54845709323,158878969254
+54845709323,139292252763205
+54845709323,142387772473971
+54845709323,13868136236
+54845709323,29659396798
+54845709323,52410479860
+54845709323,19013582168
+54845709323,130092357005906
+54845709323,20950654496
+54845709323,59444608495
+54845709323,29227375177
+54845709323,7972224358
+54845709323,41823711878
+54845709323,17614953850
+54845709323,30996428283
+54845709323,26003449566
+54845709323,143690388993779
+54845709323,22211200611
+54845709323,109273449123887
+54845709323,89252861580
+13868136236,154682011242104
+13868136236,184863384895410
+13868136236,31470579277
+13868136236,7972224358
+13868136236,109273449123887
+26003449566,75994265472
+26003449566,42646166995
+26003449566,29227375177
+26003449566,54845709323
+26003449566,54698652664
+146412214932,5953023255
+146412214932,37054718736
+146412214932,35789511778
+146412214932,12518421349
+146412214932,34127084244
+146412214932,37873197144
+146412214932,75994265472
+207922152562495,26003449566
+207922152562495,29227375177
+207922152562495,138810536180171
+207922152562495,133519200000046
+138810536180171,154907647888466
+138810536180171,364616523666669
+138810536180171,264158380288227
+138810536180171,163610423713826
+138810536180171,188974064501460
+138810536180171,122778257740034
+138810536180171,13263980999
+138810536180171,158878969254
+138810536180171,54845709323
+138810536180171,139292252763205
+138810536180171,221504864542106
+138810536180171,184863384895410
+138810536180171,142387772473971
+138810536180171,22211200611
+138810536180171,52410479860
+138810536180171,26003449566
+138810536180171,109273449123887
+138810536180171,207922152562495
+138810536180171,71144639929
+138810536180171,227189693761
+138810536180171,197614093538
+138810536180171,30996428283
+138810536180171,90243471343
+138810536180171,29227375177
+138810536180171,103834046325834
+138810536180171,41823711878
+138810536180171,89252861580
+32565794128,11476309065
+32565794128,7465864991
+32565794128,20950654496
+32565794128,325115114967
+32565794128,113553528685803
+32565794128,29227375177
+32565794128,12684049897
+126634689416,17614953850
+126634689416,123334484346296
+126634689416,43695791236
+126634689416,70409438920
+39581755672,116548701336
+39581755672,22211200611
+39581755672,20950654496
+39581755672,42646166995
+285594061540210,323338461104540
+285594061540210,34127084244
+285594061540210,660778720628843
+285594061540210,113191182055448
+285594061540210,364616523666669
+285594061540210,29227375177
+285594061540210,86836262500
+285594061540210,142387772473971
+285594061540210,54698652664
+285594061540210,158878969254
+285594061540210,101777309888324
+285594061540210,233388040042405
+285594061540210,158799914196225
+285594061540210,139292252763205
+264158380288227,241569902853
+264158380288227,465797810097759
+264158380288227,142387772473971
+264158380288227,29227375177
+264158380288227,54845709323
+264158380288227,386200704726718
+264158380288227,154907647888466
+103834046325834,323338461104540
+103834046325834,429035077156814
+103834046325834,7465864991
+103834046325834,11476309065
+103834046325834,29227375177
+103834046325834,138810536180171
+103834046325834,109273449123887
+103834046325834,22211200611
+103834046325834,39581755672
+103834046325834,197614093538
+323338461104540,285594061540210
+323338461104540,464795503587284
+323338461104540,103834046325834
+323338461104540,142387772473971
+323338461104540,29227375177
+660778720628843,103834046325834
+660778720628843,323338461104540
+660778720628843,285594061540210
+29227375177,86836262500
+29227375177,142387772473971
+29227375177,109273449123887
+29227375177,186651794946
+29227375177,103834046325834
+29227375177,264158380288227
+29227375177,660778720628843
+29227375177,323338461104540
+29227375177,464795503587284
+29227375177,285594061540210
+29227375177,39581755672
+29227375177,126634689416
+29227375177,32565794128
+29227375177,207922152562495
+29227375177,138810536180171
+29227375177,146412214932
+29227375177,26003449566
+29227375177,13868136236
+29227375177,54845709323
+29227375177,197614093538
+29227375177,13704073586
+29227375177,30201731407
+29227375177,109572246055
+29227375177,24711372432
+86836262500,12518421349
+86836262500,7209490763
+86836262500,54845709323
+86836262500,264158380288227
+86836262500,47689998796
+86836262500,154682011242104
+86836262500,22211200611
+86836262500,167757896625450
+86836262500,103834046325834
+86836262500,344487138957576
+86836262500,197614093538
+86836262500,153869921349804
+86836262500,564595296884589
+86836262500,12684049897
+142536159040,54845709323
+142536159040,29227375177
+142536159040,142387772473971
+142387772473971,285594061540210
+130092357005906,126634689416
+130092357005906,29659396798
+130092357005906,10522597325
+130092357005906,17614953850
+130092357005906,31470579277
+130092357005906,188974064501460
+130092357005906,7972224358
+130092357005906,241835255869186
+130092357005906,22211200611
+109273449123887,153869921349804
+109273449123887,128427980699351
+109273449123887,134797326696122
+109273449123887,221504864542106
+109273449123887,400271930019866
+109273449123887,759975767396879
+109273449123887,122778257740034
+109273449123887,1422455907989933
+109273449123887,434566166679412
+109273449123887,92689703737
+109273449123887,253591661347566
+109273449123887,6191007822
+109273449123887,7465864991
+109273449123887,116548701336
+109273449123887,261673197270099
+109273449123887,268369549965750
+109273449123887,167757896625450
+109273449123887,184863384895410
+109273449123887,118270134070
+109273449123887,11476309065
+109273449123887,182071785204472
+109273449123887,113553528685803
+109273449123887,151177854895123
+109273449123887,13263980999
+109273449123887,154907647888466
+109273449123887,116855675045263
+109273449123887,233388040042405
+109273449123887,13704073586
+109273449123887,34127084244
+109273449123887,75994265472
+109273449123887,47864940833
+109273449123887,5953023255
+109273449123887,90243471343
+109273449123887,191437269432
+109273449123887,17614953850
+109273449123887,20950654496
+109273449123887,158878969254
+109273449123887,10714086302
+109273449123887,26003449566
+109273449123887,54845709323
+109273449123887,41823711878
+109273449123887,71144639929
+109273449123887,22211200611
+109273449123887,29227375177
+109273449123887,30468747503
+109273449123887,89252861580
+109273449123887,30996428283
+109273449123887,13868136236
+109273449123887,10522597325
+109273449123887,7972224358
+109273449123887,143690388993779
+158878969254,37408421095
+158878969254,715242115211036
+158878969254,324501069500
+158878969254,29227375177
+364616523666669,158878969254
+364616523666669,12684049897
+364616523666669,29227375177
+364616523666669,123779520981543
+364616523666669,35789511778
+364616523666669,285594061540210
+364616523666669,188974064501460
+364616523666669,197614093538
+364616523666669,54845709323
+364616523666669,138810536180171
+364616523666669,142387772473971
+364616523666669,227189693761
+364616523666669,142536159040
+364616523666669,52410479860
+7949049205,478297838886202
+7949049205,9352223965
+667557436616702,237512592962228
+160015624038245,9352223965
+160015624038245,7949049205
+160015624038245,360123284022585
+160015624038245,213647975743
+160015624038245,52410479860
+160015624038245,22211200611
+221630147901824,186651794946
+221630147901824,30996428283
+225323091007300,186651794946
+118266248252249,386200704726718
+118266248252249,153869921349804
+118266248252249,12684049897
+152636161462286,186651794946
+152636161462286,43695791236
+112038077874,26003449566
+112038077874,150357761719133
+112038077874,6148044575
+112038077874,184863384895410
+112038077874,169533599643
+112038077874,116975664994420
+24572485732,253591661347566
+24572485732,13868136236
+24572485732,20950654496
+24572485732,17614953850
+24572485732,109273449123887
+24572485732,118270134070
+24572485732,147408195579
+24572485732,158878969254
+29432758181,379965612133498
+29432758181,386200704726718
+29432758181,10714086302
+114077815318680,360123284022585
+114077815318680,7949049205
+114077815318680,465365616844046
+6546143514,171960889675484
+6546143514,143494679031019
+6546143514,360123284022585
+6546143514,38148901237
+6546143514,20734269172
+6546143514,264547278949
+6546143514,106618716043123
+6546143514,7595220769
+6546143514,226814380706316
+6546143514,186651794946
+6546143514,24327179853
+6546143514,174228359272883
+6546143514,241569902853
+12684049897,109572246055
+12684049897,121449307867611
+12684049897,153869921349804
+12684049897,142387772473971
+12684049897,233388040042405
+12684049897,440110769339513
+12684049897,54698652664
+12684049897,186651794946
+12684049897,163610423713826
+12684049897,12518421349
+12684049897,214637758551161
+12684049897,32565794128
+12684049897,24711372432
+12684049897,7209490763
+12684049897,34127084244
+12684049897,75994265472
+12684049897,9352223965
+12684049897,22211200611
+12684049897,54845709323
+12684049897,29227375177
+12684049897,26003449566
+12684049897,136722119729214
+12684049897,265185955466
+12684049897,86836262500
+226516917401644,147408195579
+226516917401644,115926198447805
+226516917401644,173120431716
+226516917401644,169533599643
+226516917401644,7595220769
+226516917401644,186651794946
+115926198447805,186651794946
+115926198447805,173120431716
+115926198447805,432052846910801
+115926198447805,7595220769
+169533599643,7595220769
+169533599643,114081135273132
+169533599643,143494679031019
+169533599643,6336578918
+169533599643,28728366821
+169533599643,109273449123887
+169533599643,54845709323
+169533599643,186651794946
+169533599643,116975664994420
+169533599643,112038077874
+177760268759,196397303720695
+177760268759,37408421095
+177760268759,83010326497
+374122676027793,245929772126147
+374122676027793,9059623924
+374122676027793,325115114967
+374122676027793,226814380706316
+374122676027793,156219944510180
+374122676027793,194384780585231
+156219944510180,194384780585231
+156219944510180,145508218883848
+156219944510180,141817902629578
+156219944510180,245929772126147
+194384780585231,245929772126147
+194384780585231,9059623924
+194384780585231,374122676027793
+194384780585231,156219944510180
+194384780585231,226814380706316
+194384780585231,325115114967
+194384780585231,186651794946
+226814380706316,186651794946
+145508218883848,245929772126147
+245929772126147,156219944510180
+245929772126147,145508218883848
+381277298582896,154682011242104
+381277298582896,186651794946
+38148901237,186651794946
+116975664994420,118270134070
+116975664994420,112038077874
+116975664994420,186651794946
+6148044575,7949049205
+6148044575,381277298582896
+6148044575,208142009208861
+6148044575,156219944510180
+6148044575,175093579206755
+6148044575,198750100198783
+6148044575,154682011242104
+6148044575,478297838886202
+6148044575,11476309065
+6148044575,186651794946
+6148044575,112038077874
+175093579206755,6148044575
+175093579206755,213647975743
+175093579206755,7949049205
+175093579206755,465365616844046
+175093579206755,9352223965
+175093579206755,29227375177
+175093579206755,54845709323
+175093579206755,184863384895410
+175093579206755,142387772473971
+175093579206755,154682011242104
+175093579206755,10714086302
+175093579206755,7972224358
+175093579206755,109273449123887
+175093579206755,31470579277
+175093579206755,154226994687030
+175093579206755,360123284022585
+198750100198783,112038077874
+198750100198783,7949049205
+198750100198783,174546852618549
+198750100198783,38148901237
+198750100198783,6148044575
+208142009208861,583120118466351
+208142009208861,6148044575
+208142009208861,17614953850
+208142009208861,104032032967618
+208142009208861,10714086302
+208142009208861,6363207806
+270649949636267,143494679031019
+270649949636267,186651794946
+9093906700,186651794946
+238635406173324,131617036900731
+10007331563,153869921349804
+10007331563,71144639929
+10007331563,186651794946
+10007331563,44496359631
+10007331563,41823711878
+10007331563,133519200000046
+10007331563,30996428283
+348552728534796,52179735589
+348552728534796,186651794946
+348552728534796,207922152562495
+348552728534796,71144639929
+348552728534796,153869921349804
+348552728534796,10007331563
+348552728534796,133519200000046
+130155620375614,186651794946
+130155620375614,150468765048008
+130155620375614,10007331563
+130155620375614,92689703737
+106618716043123,20734269172
+106618716043123,24711372432
+106618716043123,265185955466
+106618716043123,150468765048008
+106618716043123,7595220769
+106618716043123,12410429859
+106618716043123,109142375837731
+106618716043123,126155367299
+106618716043123,186651794946
+301979943157949,20950654496
+20734269172,12410429859
+20734269172,106618716043123
+219419944741041,186651794946
+150468765048008,186651794946
+131617036900731,238635406173324
+104188312951016,186651794946
+358059997608914,10522597325
+358059997608914,532700500112878
+358059997608914,265185955466
+358059997608914,10714086302
+358059997608914,157638164376370
+358059997608914,112038077874
+358059997608914,169533599643
+196397303720695,186651794946
+196397303720695,143182875720710
+196397303720695,177760268759
+83010326497,196397303720695
+83010326497,186651794946
+83010326497,7595220769
+83010326497,37408421095
+37408421095,158878969254
+37408421095,186651794946
+37408421095,83010326497
+147408195579,158878969254
+126637604050239,177760268759
+126637604050239,186651794946
+126637604050239,147408195579
+7595220769,169533599643
+7595220769,173120431716
+7595220769,13769747643
+7595220769,12684049897
+7595220769,186651794946
+7595220769,24711372432
+7595220769,265185955466
+324501069500,158878969254
+324501069500,86836262500
+324501069500,186651794946
+324501069500,109273449123887
+324501069500,22211200611
+324501069500,89252861580
+276198472104,201167224812
+276198472104,26003449566
+201167224812,429035077156814
+201167224812,139292252763205
+201167224812,138810536180171
+201167224812,52410479860
+201167224812,10522597325
+201167224812,7972224358
+201167224812,186651794946
+201167224812,30996428283
+201167224812,143690388993779
+201167224812,158878969254
+201167224812,29227375177
+201167224812,10714086302
+201167224812,17614953850
+201167224812,142387772473971
+201167224812,13704073586
+201167224812,22211200611
+201167224812,154907647888466
+201167224812,192609620649
+201167224812,109273449123887
+201167224812,89252861580
+201167224812,184863384895410
+201167224812,188974064501460
+201167224812,54845709323
+440110769339513,12684049897
+440110769339513,265185955466
+440110769339513,214637758551161
+440110769339513,24711372432
+24711372432,214637758551161
+24711372432,440110769339513
+24711372432,29758740802
+24711372432,101777309888324
+24711372432,186651794946
+24711372432,42646166995
+24711372432,265185955466
+24711372432,12684049897
+24711372432,29227375177
+120610718133666,8829726273
+120610718133666,958759454149502
+120610718133666,20734269172
+120610718133666,182084760813
+120610718133666,130092357005906
+120610718133666,186651794946
+120610718133666,12410429859
+355675421192004,182084760813
+404336659637552,12410429859
+404336659637552,182084760813
+109142375837731,182084760813
+109142375837731,106618716043123
+114081135273132,250850444938535
+114081135273132,54845709323
+114081135273132,164743360226709
+114081135273132,113211072047633
+114081135273132,24327179853
+114081135273132,30201731407
+114081135273132,186651794946
