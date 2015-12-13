@@ -6,7 +6,7 @@ setParams({
             The GEXF file to show ! -- can be overriden by adding
             a hash to the document location, e.g. index.html#celegans.gexf
         */
-	showEdges : false,
+	showEdges : true,
         /*
             Default state of the "show edges" button
         */
@@ -31,7 +31,7 @@ setParams({
     minEdgeWidth : 3,
     maxEdgeWidth : 50,
     textDisplayThreshold: 3,
-    nodeSizeFactor : 1.3,
+    nodeSizeFactor : 1.75,
         /*
             Change this parameter for smaller or larger nodes
            this setting can't be changed from the User Interface
